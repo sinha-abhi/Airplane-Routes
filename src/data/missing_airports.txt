@@ -5,30 +5,18 @@ Little Squaw Airport
 Kizhuyak Bay
 Elizabeth Island Airport
 Augustin Island
-Columbia County
-Grand Canyon West
-Blairstown Airport
-Crosbyton Municipal
-Blair Lake
 Deadmans Bay Airport
 Hallo Bay Airport
-Red Lake Airport
 Shell Lake Airport
 Navigator Airstrip
-Roland Norton Memorial
 Pillar Bay Airport
-Johnstone Point Airport
 Tikchik Lodge Airport
 Bell Creek Airport
 Cinnabar Airport
 Mountaintop Mine Airport
 Whitebear Airport
-Puviaq Airport
 Arley Lake Airport
 Port Vita Airport
-Kantishna Airport
-Alpine Airstrip
-Serpentine Airport
 Driftwood Bay Airport
 Bradley Lake Airport
 Chilkat Lake Airport
@@ -41,13 +29,11 @@ Terror Lake Airport
 Selief Bay Airport
 Laura Lake Airport
 Deep Bay Airport
-Kako Airport
 Molly Creek Airport
 Ptarmigan Lake Airport
 Cape Simpson Airport
 Kogru River Airport
 Teshepkuk Lake Airport
-Trident Basin Seaplane Base
 Lake Florence Airport
 Lake Hasselborg Airport
 Distin Lake Airport
@@ -58,21 +44,14 @@ Wien Lake Airport
 Silver Salmon Creek Airport
 Blear Lake Airport
 Cannery Bay Airport
-Johnsons Landing
 International Seafoods Airport
 Cosna River Airport
 Ivatuk Airport
-Cape Sarichef Airport
-Taylor Mountain
-Coal Creek
 Karluk Portage Airport
-Hope Airport
 Viekoda Bay Airport
 Cathedral Strip
 Village Islands Airport
-Bear Cove Farm
 Chinitna Bay Airport
-Dog Fish Bay
 Malina Bay Airport
 Red Fox Bay Airport
 Shearwater Airport
@@ -82,7 +61,6 @@ Cape Simpson 1
 Nikiski Private Airstrip
 Petrof Point Airport
 Denali West Lodge Private
-Big River Airport
 Carry Inlet Airport
 Montague Island Airport
 Shannon Pond Airport
@@ -94,1175 +72,527 @@ Ice Strip
 Ice Strip
 Akulik Air Strip
 Deadfall Air Strip
-Eagle Creek Airport
 Ice Kong
 Glacier Split
 Selby Lake Airport
-Anaa Airport
 Arrabury Station
-Rabah Bitat
 Apalachicola Regional Cleve Randolph Field
 Aachen Merzbrueck
-Arraias Airport
-Aalborg Airport
-Anaco Airport
-Aarhus Airport
 Asau W Sam
 Araxa Airport
-Abadan Airport
 Felix Houphouet Boigny Abidjan International
 Kebri Dahar
 Ambler River
-Abu Simbel Airport
 King Saud Bin Abdulaziz
-Albury Airport
-Antrim County
 Accra Kotoka International
-Alderney Airport
-Achutupo Airport
 California Redwood Coast Humboldt County
 Adana International
-Andakombe Airport
-Andes Airport
-Andamooka Airport
-Kodiak Airport
 Joint Base Andrews
 Aleneva Airport
-Abeche Airport
 Aioun El Atrouss Airport
 Aeroparque Jorge Newbery
 Adler Sochi Airport
-Vigra
-Allakaket Airport
-Akureyri Airport
-San Rafael Airport
-USAF Academy Airfield
-Nebraska City Municipal
-Afton Municipal
 Anson County Jeff Cloud Field
-Afyon Airport
-Inezgane
-Augsburg Airport
 Agen La Garenne
-Angoram Airport
 Angelholm
-Kagua Airport
-Wanigela Airport
 Malaga Airport
 Agrinion Airport
-Agra Airport
 Augusta Regional at Bush Field
 Jesus Teran International
 Agatti Island Airport
 Naha AB
 Abha Airport
-Ardmore Downtown Executive
 Auas
-Amchitka
 Cherif El Idrissi International
 Anita Bay Airport
-Anderson Municipal Darlington Field
-Wainwright Airport
-Aitutaki Airport
-Bader Field
 Ajaccio Napoleon Bonaparte
-Al Jouf
-Akjoujt Airport
-Arvidsjaur Airport
-Atka Airport
-Akiak Airport
-Asahikawa Airport
-Akhiok Airport
-King Salmon Airport
-Anaktuvuk Pass Airport
-Akure Airport
 Auki Airport
 Akrotiri Airport
-Aktyubinsk Airport
-Sittwe Airport
 Albertville Regional Thomas J Brumlik Field
 Huntsville Executive Airport Tom Sharp Jr
-Almaty Airport
 Alicante Elche
-Alta Airport
-Albany Airport
-Alexander Bay Airport
 Asela Airport
 Alegrete Airport
-Alexandra Airport
-Alenquer Airport
-Alula Airport
-Alitak Seaplane Base
 Ahmedabad Airport
-Ama Airport
-Amboin Airport
-Arba Minch Airport
-Animas Air Park
-Puerto Armuelles Airport
-Mao Airport
-Ampanihy Airport
-Ames Municipal
 Ammaroo Station
-Ambatomainty Airport
 Anaheim Disneyland HP
 Anniston Regional
 Angers Marce
 Andres Sabella International
 Angouleme Brie Champniers
-Aniak Airport
-Angoche Airport
-Andahuaylas Airport
 V C Bird International
-Anvik Airport
 Andoya
-Aomori Airport
-Karpathos Airport
 Paso de Los Libres Airport
 Amook Bay Airport
-Apolo Airport
-San Juan Aposento Airport
 Phillips AAF
-Apataki Airport
-Nampula Airport
 Apartado Airport
-April River Airport
-Marion County Brown Field
-Apple Valley Airport
 Rodriguez Ballon International
-Saqani Airport
-Girdwood Airport
-Russellville Regional
-Dennis F Cantrell Field
-Arctic Village Airport
-Arcadia Municipal
-Walnut Ridge Regional
-Arusha Airport
-Armidale Airport
-Aragip Airport
 Arauquita Airport
 Aragarcas Airport
 Aracatuba Airport
 Lakeland Noble F Lee Memorial Field
 Asbury Park Monmouth County
-Ararat Airport
 N zeto Airport
-Ashgabat Airport
 Ascension Airport
 Fresh Creek
 Aspen Pitkin County Sardy Field
 Ashburton Airport
 Ascension Aux Af
-Yamoussoukro Airport
-Harrison County
 Asosa Hidase
-Alice Springs Airport
-Austin Airport
-Kayseri Airport
-John F Kennedy Memorial
-Ashley Municipal
 Anta Huaraz
-Atbara Airport
 Arthur s Town Airport
-Antlers Municipal
-Altamira Airport
-Namatanai Airport
-Aitape Airport
 Amritsar International
 Atar Airport
-Artesia Municipal
-Atmautluak Airport
 Casco Cove CGS
-Ati Airport
 Assiut Airport
 Reina Beatrix International
-Augustus Downs Airport
-Alakanuk Airport
-Austin Municipal
-Auburn Municipal
 Auburn University Regional
 Aguan Papua N G
 Hiva Oa Atuona
-Aurillac Airport
 Araguaina Airport
-Aneityum Airport
-Aurora Municipal
 Aviano AB
 Avignon Caumont
-Avalon Airport
 Lake Awasa
-West Memphis Municipal
-Awar Airport
-Andrews County
-Ahwaz Airport
-Clayton J Lloyd
-Maxson Airfield
-Aramac Airport
-Spring Point Airport
-Altus Quartz Mountain Regional
-Akita Airport
 Axum Atse Yohannes IV
-Neil Armstrong
-Angel Fire
-Anthony Lagoon Airport
-Ayr Airport
-Waycross Ware County
 Antalya Airport
-Ayawasi Airport
 H A Clark Memorial Field
 Phoenix Mesa Gateway
 Pablo L Sidar
-Biddeford Municipal
-Sugarloaf Regional
-Bialla Airport
 Beale AFB
 Barranca de Upia Airport
 Barksdale AFB
 Barcelonnette Airport
 Westfield Barnes Regional
-Baguio Airport
-Buenos Aires Airport
-Batman Airport
-Battle Mountain Airport
 Udorn AB
-Baker AAF
-Barth Airport
 Bauru Arealva
-Baotou Airport
-Mikhaylovka
 Maramures
-Balmaceda Airport
 Bay City Regional
 N Eng Heliport
 Bhubaneswar Airport
 Berbera International
 Cocoa Point
-Blackbushe Airport
 Berberati Airport
 Baneasa Aurel Vlaicu
-Bambari Airport
-Zambezi Airport
-Virginia Tech Montgomery Executive
-Bear Creek Airport
 Bacolod Airport
-Bryce Canyon Airport
-Barcaldine Airport
-Baca Grande
-Barra del Colorado Airport
 George Enescu Bacau International
 Barcelona Airport
-Southern Seaplane
 Boca Raton Public
 Bulchi Airport
 L F Wade International
-Bundaberg Airport
-Blanding Municipal
-Bandar Lengeh Airport
-Bird Island Airport
 Bondoukou Soko
 Bandirma Airport
-Chandragadhi
-Vadodara Airport
 Brindisi Airport
-Bardufoss Airport
-Bandon State
-Benbecula Airport
-Bluefields Airport
-Beograd
-Southwest Michigan Regional
-Beica Airport
 Val de Cans International
 Berlin Metropolitan Area
-Bethel Airport
 Bedourie North
-Beira Airport
 Blue Fox Bay Airport
 Western Neb Regional William B Heilig Field
 Buckley AFB
-Buffalo Range Airport
 Bahia de Pinas Airport
-Virgil I Grissom Municipal
 Belfast Aldergrove
-Booue Airport
-Hutchinson County
 Bangui M Poko
-Baglung Airport
 Greater Binghamton Edwin A Link Field
 Bruggen Airport
-Big Lake Airport
 Big Spring McMahon Wrinkle
-Bagdad Airport
-Bangassou Airport
 Al Muthana
 Bergamo Orio Al Serio
 Isa AB
 Hancock County Bar Harbor
-Laughlin Bullhead International
-Araslaya
-Bisha Airport
-Bhuj Airport
-Bukhara Airport
 Bahia de Los Angeles North
 Birmingham Shuttlesworth International
-Beihan Airport
-Broken Hill Airport
-Bharatpur Airport
-Bathurst Airport
-Brighton Downs Airport
-Bhavnagar Airport
 Bahawalpur International
 Birmingham Airport
-Beihai Airport
 Belo Horizonte Metropolitan Area
 Bastia Poretta
-Big Creek Airport
-Beatrice Municipal
 Biggs AAF
 Allen AAF
-Bishop Airport
 Bikini Atoll Airport
-Manuhua
 Bimini International
 Bamyan Airport
-Bilbao Airport
-Bulimba Airport
 Biarritz Pays Basque
-Biratnagar Airport
-Bria Airport
 Keesler AFB
 Bahir Dar Ginbot Haya International
-Bajura Airport
 Imsik
 Guanajuato International
-Badajoz Airport
-Buckland Airport
 Brooks Lake Airport
-Branson Airport
 Barking Sands PMRF
 Bakelalan Airport
 Modibo Keita
-Blackall Airport
-Betioky Airport
-Brookings Regional
-Bukoba Airport
+General Jose Antonio Anzoategui International
 Albrook AFB
-Bali Airport
-Boulder City Municipal
-Borlange Airport
-Belaga Airport
-Blythe Airport
 Mostepha Ben Boulaid
 Blackpool Airport
-Billund Airport
-Monmouth Executive
 Blonduos Airport
 Bellavista 1
 Bologna Airport
-Blackwater Airport
 Scott AFB MidAmerica
 Bumba Airport
-Brigham City Airport
 Belo Sur Tsiribihina
-Bomai Airport
-Baramita Airport
-Berlin Regional
-Bitam Airport
-Brampton Island Airport
 Bordj Mokhtar
 Big Mountain AFS
-Boende Airport
-Warm Spring Bay Seaplane Base
 Benin City Airport
-Barnwell Regional
-Bronnoy
-Barinas Airport
 Banja Luka Airport
-Banz Airport
-Boma Airport
 Bora Bora Motu Mute
 Bocas del Toro International
 Bordeaux Merignac
-Bournemouth Airport
-Burgas Airport
-Brookings Airport
 Bodo Airport
-Boku Airport
-Borroloola Airport
-Bobo Dioulasso Airport
-Bislig Airport
 Sultan Aji Muhammad Sulaiman Sepinggan
-Porto Seguro Airport
 Jack Brooks Regional
 Baler Airport
-Bartlett Cove Seaplane Base
-Pato Branco
-Barreiras Airport
 San Carlos de Bariloche Airport
-Bremen Airport
-Whitesburg Municipal
-Bari Airport
-Bourke Airport
 Turany
-Barra Airport
-Bristol Airport
-Bathurst Island Airport
 Brussels National
-Bremerhaven Airport
 Barahona Habanero
-Samuels Field
-Bosaso Airport
 Presidente Juscelino Kubitschek International
 Baoshan Airport
-Bata Airport
 Mohamed Khider
 Bergstrom AFB
-Basco Airport
-Bisbee Municipal
-Balsas Airport
-Basankusu Airport
-Boswell Bay Airport
-Bartletts Airport
-Bertoua Airport
-Batticaloa Airport
-Bonthe Airport
 Batu Besar Airport
 Barter Island Airport
-Bratsk Airport
 Pittsburgh Butler Regional
 Baton Rouge Metropolitan Ryan Field
 M R Stefanik
-Bettles Airport
-Bintulu Airport
-Beatty Airport
-Bursa Airport
-Burketown Airport
 Budapest Liszt Ferenc International
 Buenos Aires Metropolitan Area
-17 de Setembro
 Bucharest Metropolitan Area
-Bulolo Airport
-Butler Memorial
 Gerardo Tobar Lopez
-Burao Airport
 J M Nkomo International
 Batumi Airport
 Buyo Airport
-Bella Union Airport
-Bunia Airport
-Bunbury Airport
-Bushehr Airport
 Beauvais Tille
 Beaver Inlet Seaport
-Birdsville Airport
-Bartlesville Municipal
-Beaver Island
-Batesville Regional
 Beverly Regional
-Brownwood Regional
-Butterworth Airport
+Braunschweig Wolfsburg
 Baltimore Washington International Thurgood Marshall
-Bawan Airport
-Bowman Municipal
-Blaine Municipal
-RAF Bentwaters
-Sheraton Inn Heliport
-Bade Airport
-Bakel Airport
-Borrego Valley
-Boundary Airport
-Yacuiba Airport
 Rock Hill York County Bryant Field
 Bouake Airport
-Boyne Mountain
 Bantry Airport
-Bayreuth Airport
-Blakely Island Airport
-Bonanza Airport
 Philip S W Goldson International
-Szwederowo
 Balikesir Airport
 Bozeman Yellowstone International
-Bolzano Airport
 Beziers Vias
-Buzzards Point Seaplane Base
-Eagle Air Park
 Maya Maya
 Brize Norton Airport
-Camarillo Airport
-Bakersfield Municipal
 Koala Mine Airport
 Lake Simcoe Airport
-Thetford Mines Airport
-Pelee Island Airport
 Calgary Springbank
-Cabinda Airport
 Coronel Adalberto Mendes Da Silva
-Wexford County
-Carauari Airport
 Ca Mau Airport
-Canaima Airport
-Campbeltown Airport
-Choreti
-Anfa
-New Bight Airport
-Carlisle Airport
 Cayenne Felix Eboue
-Cobar Airport
 Corner Bay Airport
 Jorge Wilstermann International
-Cambridge Airport
 Bechar Leger
 Ciudad Bolivar Airport
 Columbus AFB
 Cotabato Airport
 Canberra Airport
-Coban Airport
-Canobie Airport
 Jardines del Rey International
 Carcassonne Salvaza
-Chile Chico Airport
 Olavo Cecco Rigon
 Calicut Airport
 Cocos Keeling Island
 Criciuma
 Chakhcharan Airport
 Carriel Sur International
-Simon Bolivar International
 Caceres Airport
-Chub Cay Airport
-Cold Bay Airport
 Cortina d Ampezzo Airport
 Paris Charles de Gaulle
-Harrell Field
 Conceicao Do Araguaia Airport
-Candle 2
 Merle K Mudhole Smith
-Cessna Aircraft Field
-Jack McNamara Field
-Ceduna Airport
 Westover ARB Metropolitan
-Chiang Rai Airport
-Cape Eleuthera Airport
-Central Airport
 Ciudad Obregon International
-Waco Kungo Airport
 Concepcion Airport
 Cannes Mandelieu
 Cherbourg Maupertus
-Mettel Field
-Chena Hot Springs Airport
-Kyle Oakley Field
 Coffee Point Airport
-Cabo Frio Airport
 Clermont Ferrand Auvergne
 Jaime Gonzalez International
-Silver City Airport
 Caen Carpiquet
-Coffs Harbour Airport
-Greenlee County
-Craig Seaplane Base
 Marechal Rondon International
-Cape Gloucester Airport
 Cambridge Dorchester Regional
 Soekarno Hatta International
-Camiguin Airport
 Koeln Bonn
 Chittagong Airport
 Dafangshen
 Campo Grande International
-College Park Airport
 Ciudad Guayana Metropolitan Area
 Meigs Field
-Cagayan de Oro
 Caherciveen Reenroe
-Chaoyang Airport
 Chicago Metropolitan Area
-Challis Airport
 Teniente Jaime A de Montreuil Morales
-Circle Hot Springs Airport
-Souda
 Chateauroux Airport
 Charleston AFB International
 Chatham Islands Airport
-Chuathbaluk Airport
 Changuinola 1
-Chiloquin State
-Craig Moffat
-Changzhi Airport
 Cap Av Civ Anibal Arab Fadul International
-Chalkyitsik Airport
-Council Airport
-Arthur N Neu
-Chipata Airport
-Cairo Regional
 Chomley Airport
-Canouan Airport
 Capt Jose A Quinones Gonzales International
-Comiso Airport
 Gen FAP Armando Revoredo Iglesias
 Crafton Island Airport
-Chitral Airport
 Abraham Gonzalez International
-Clay Center Municipal
-Crooked Creek Airport
-Pearce Field
-Fletcher Field
 Cancun International
 Carajas Airport
-Cordova Municipal
-Outlaw Field
-Chicken Airport
 Conakry Airport
-Comilla Airport
-Castlebar Airport
-Clear Lake Metroport
 McClellan Palomar
 Clear Mews
-New Coalinga Municipal
-Coolah Airport
-Clintonville Municipal
 Avram Iancu
-Clinton Regional
-Carolina Airport
-Clarks Point Airport
-Colima Airport
-Cliff Hatfield Memorial
 Calvi Sainte Catherine
-Cunnamulla Airport
-Cootamundra Airport
 Chambery Aix Les Bains
 Corumba International
-John Glenn Columbus International
-Chi Mei Airport
-Carmelita Airport
 Colmar Houssen
 Cameta Airport
 Coromandel Airport
-Cananea Airport
-Coonamble Airport
-Coconut Island Airport
 Rum Kogalniceanu
-Fremont County
-Blosser Municipal
-Sindal Airport
-Chino Airport
-Corrientes Airport
 Chanaral Airport
 Tolemaida AB
-Columbia Airport
 Coeur d Alene Pappy Boyington Field
 Patrick AFB
-Cooch Behar Airport
-Coonabarabran Airport
-Coleman Municipal
 Card Bernardin Gadin de Cadjehoun International
 Ambrosio L V Taravella
 Cotulla La Salle County
-Coolawanyah Airport
-Cape Palmas Airport
 Capurgana Airport
 Aviador C Campos
-Coober Pedy Airport
 Ingeniero Alberto Acuna Ongay International
-Cape Rodney Airport
 Casper Natrona County International
 Bi State Parks
 Presidente Joao Suassuna
 Calais Dunkerque
 Glen Aspen
 Cheraw Municipal Lynch Bellinger Field
-Craiova Airport
-Collarenebri Airport
 Cartago Airport
 Comodoro Rivadavia Airport
-Diosdado Macapagal International
-Caravelas Airport
-Ceres Airport
-C David Campbell Field Corsicana Municipal
-Lauriston
-Crotone Airport
-Roscoe Turner
-Cresswell Downs Airport
-Buckhorn Ranch
 Columbus Airport
-Casino Airport
 Cape Spencer C G Helipad
-Casuarito Airport
 Cassilandia Airport
 Castaway Airport
-Cape Sabine Airport
 Catania Fontanarossa
 Catamarca Aeroclub
 Rafael Nunez
-Charleville Airport
-Cooktown Airport
-Calverton Executive Airpark
-Le Castellet Airport
-Cottonwood Airport
-Cortland County Chase Field
-Cross City Airport
 Jim Hamilton L B Owens
 Cuenca Airport
-Levaldigi
 Culiacan International
 Cumana Airport
 General Jose Francisco Bermudez
-Coen Airport
 Cutral Co Airport
 Cube Cove Airport
-Cue Airport
 Teniente Alejandro Velasco Astete International
 Civic Arena H P
-Courchevel Airport
-Cape Vogel Airport
-Carnarvon Airport
 Cannon AFB
-Coventry Airport
 Cardiff Airport
-Center Island Airport
-Cowra Airport
 Caicara Venez
 Cox s Bazar Airport
-Chitina Airport
-Coldfoot Airport
-Christmas Island Airport
 Campo Dos Bugres
 Conroe North Houston Regional
-Charters Towers Airport
-Cat Cay Airport
 Charles Kirkconnell International
-Caye Chapel Airport
-Chefornak Airport
-Chiayi Airport
 Chatham Airport
-Calbayog Airport
-Cauayan Airport
-Cruz Alta Airport
-Copper Center 2
 Jose Leonardo Chirino
-Ranchito
 Constantine Ain El Bey
-Chisana Airport
-Chistochina Airport
 Cape Pole Airport
 Cruzeiro Do Sul Airport
 Czestochowy
 Danang International
-Daet Airport
-Daup Airport
-Datong Airport
-Daru Airport
 Daxian Airport
 Al Alamain International
 Debre Marcos
 W H Bud Barron
 Dubbo Airport
-Dubrovnik Airport
-Dalby Airport
-Dahl Creek Airport
-RAF Finningley
-Pryor Field Regional
-Dorado Airport
 Zweibruecken
 Dera Ghazi Khan International
 Debrecen Airport
-Decatur Airport
-Decorah Municipal
 Dembi Dollo Airport
-Desroches Airport
 Coleman A Young Municipal
 Al Jafrah Deir Ezzor
-Defiance Memorial
 Danger Bay Airport
 Durango International
 Dumaguete Airport
-Converse County
 King Abdulaziz AB
 Dhangadhi Airport
 Dhala Airport
-Dibrugarh Airport
 Zhongdian
 Dijon Longvic
-Diomede Heliport
 Aba Tenna Dejazmatch Yilma
 Dolisie Airport
-Diu Airport
 Divo Airport
-Diyarbakir Airport
 Paalmerah
 Djerba Airport
-Tiska
-Delta Junction Airport
-Daloa Airport
 Kolding Vamdrup Airport
 Kyboola
 Chautauqua County Dunkirk
 Leopold Sedar Senghor International
 Douala Airport
 Laughlin AFB
-Dillingham Airport
-Lienkhang
-Dillon County
 Dalaman Airport
 Dolomi Airport
 Columbia Gorge Regional The Dalles Municipal
-Xiaguan
 Davis Monthan AFB
 Sedalia Regional
 Manipur Road
 Kadena AB
-Dunbar Airport
 Duncan Canal Airport
-Dundee Airport
 Dallas North
 Dianopolis Airport
-Deniliquin Airport
 Dinard Pleurtuit Saint Malo
 Cardak
-Dodoma Airport
 Dora Bay Airport
-Dongola Airport
 Deauville Normandie
 Douglas Charles
-Dos Lagunas Airport
-Dourados Airport
 Dover AFB
 Du Page County
-Michael AAF
-Dipolog Airport
-Devonport Airport
 Gusti Ngurah Rai International
-Badami
 Montijo Airport
-Sebastian Municipal
-Allen H Tigert
-Holtville Airport
-Springfield Robertson County
-Alpine Airstrip
-Colusa County
 Dunn County Weydahl Field
 Wheeler Sack AAF
-Lake Hood Strip
-New Smyrna Beach Municipal
-Delhi Municipal
-Marshall Field
-Cozad Municipal
-Grand Canyon West
-Grand Canyon Bar Ten Airstrip
 Neets Bay
 Glacier Point
-Hualapai
 Tsui River Airport
-Platinum Mine
-Derby Airport
-Drummond Island Airport
-Drift River Airport
-Deering Airport
-Dirranbandi Airport
-Dresden Airport
-Drummond Airport
 La Desirade Airport
 Dessie Combolcha
 D I Khan
-Furnace Creek
 Detroit Lakes Wething Field
-Dortmund Airport
 Denton Enterprise
 Detroit Metropolitan Area
 Detroit Metro Wayne County
-Eaker Field
-Dublin Airport
-Dunedin Airport
-Dundo Airport
-Pine Island
-Louis Botha
 Duesseldorf
-Unalaska Airport
-Diavik Airport
-Davenport Municipal
-Walt Disney World
-Hehua
 Dyess AFB
-Dushanbe Airport
 Durazno Airport
-Eagle Airport
 Eagle Creek Strip
-Nejran Airport
-Phifer Airfield
-Kearney Regional
-San Sebastian Airport
-El Obeid Airport
-Esbjerg Airport
 Saint Etienne Loire
 Elizabeth City CGAS Regional
 Ercan Airport
-Mondell Field
-Edwards County
 Edna Bay Airport
-Northeastern Regional
 Elmendorf AFB
-Edinburgh Airport
 Eldoret Airport
 Edwards AFB
-Needles Airport
-Eek Airport
 Eight Fathom Bight Airport
-Northeast Kingdom International
 Argostolion
 Jiyanklis AB
 Beni Suef Airport
 Chenega Airport
 Bergerac Dordogne Perigord
-Geneina Airport
 Eagle Pass Municipal
 Egilsstadir Airport
-Egegik Airport
 Eagle Harbor Airport
-Rentschler Heliport
 Eia Airport
 Eisenach Kindel
 Eielson AFB
-Eindhoven Airport
 Terrance B Lettsome
 Yariguies
 Wedjh Airport
 Elkins Randolph County Jennings Randolph Field
-Addington Field
-Bessemer Airport
-Eagle Lake Airport
 El Banco Airport
-Elcho Island Airport
 South Arkansas Regional at Goodwin Field
-El Fasher Airport
-El Golea Airport
-North Eleuthera Airport
-Elim Airport
-El Recreo Airport
-Bowers Field
 Prince Naif Bin Abdulaziz
 East London Airport
-El Tor Airport
-Ellamar Seaplane Base
-Ely Airport Yelland Field
-Emerald Airport
-Emmonak Airport
-Kemmerer Municipal
 Nema Airport
-San Gabriel Valley
 Nancy Essey
 Vance AFB
-Centralia Municipal
 Coronel Enrique Soto Cano AB
-Wendover Airport
-Ephrata Municipal
 Epinal Mirecourt
 Epena Airport
-Esperance Airport
 Esquel Airport
-Erigavo Airport
-Erzincan Airport
-Berdyansk Airport
 Erfurt Weimar
-Erechim Airport
 Eirunepe Airport
-Erdenet Airport
 Erzurum Airport
 Esa ala Airport
 Esenboga
 General Alberto L Salinas Carranza
 Coronel Carlos Concha Torres
-Stroudsburg Pocono
 Ricardo Garcia Posada
 Essen Muelheim
-Eilat Airport
-Eastland Municipal
 Metz Nancy Lorraine
 Eua Airport
-Eureka Airport
 Hassan I International
 F D Roosevelt
-Eva Creek Airport
 Evenes Airport
-Sveg Airport
-Eveleth Virginia Municipal
 Evanston Uinta County Burns Field
 Evreux Fauville
 Newton City County
-Excursion Inlet Seaplane Base
-Exeter Airport
-George Town Airport
 Yelimane Airport
-El Yopal Airport
 Elazig Airport
-Farnborough Airport
 False Island Airport
 Falcon State Park
-Farmington Regional
-Faro Airport
 Fairmount Island Airport
-Fakarava Airport
 Simmons AAF
-Fort Bridger Airport
-Friday Harbor Seaplane Base
-Fornebu
-Fresno Chandler Executive
 Forde Airport
 Martinique Aime Cesaire
-Friedrichshafen Airport
-Frederick Municipal
-Frederick Regional
-Bandundu Airport
-Findlay Airport
 Fergana Airport
-Fernando de Noronha Airport
-Albertus
 Francis E Warren AFB Heliport
 Saiss International
 Fergus Falls Municipal Einar Mickelson Field
 Wright Patterson AFB
-Fderik Airport
 Fagali I
 Sierra Vista Municipal Libby AAF
 Fire Cove Airport
-Elizabeth Field
 N Djili International
-Fillmore Municipal
-Finschhafen Airport
-Fitzroy Crossing Airport
 Karlsruhe Baden Baden Airport
-Fukui Airport
-Fukushima Airport
-Valkaria Airport
 Vosikas
 Flagler Executive
-Williston Municipal
 Floriano Airport
 Fond Du Lac County
 Flensburg Schaeferhaus
 Falls Bay Airport
 Hercilio Luz International
-Firenze
-Flinders Island Airport
-Flat Airport
-Flushing
 Sherman AAF
-Fallon Municipal
-Formosa Airport
 Five Mile Camp Airport
 Cape Cod CGAS
-Kalemie Airport
 Muenster Osnabrueck
-Fort Madison Municipal
 Freetown Lungi
 Nimes Garons
 Pyongyang International
-Northern Colorado Regional
-Fort Bragg Airport
-Foggia Airport
 Treasure Coast International
 Perry Foley
 Patching Lake Airport
 San Nicolas Island NOLF
-Lilly Lake
 Trident Volcano
 Annex Creek Airport
 Davidson Creek Airport
-Snettisham Airport
-Fire Island Airport
 Georgetown Scott County Regional
 Greens Creek Airport
 Gull Cove Airport
-Flora Municipal
 Karta Lake Airport
 Manzanita Lake Airport
 Shrimp Bay Airport
-Dry Bay Airport
 Josephine Lake Airport
-Libby Airport
 Volcano Bay Airport
 Fort Glenn Airport
 Babe Islands Airport
 Kahli Cove Airport
 Frankfurt Main
 Tenente Lund Pressoto
-Friday Harbor Airport
 Rhein Main AFB
 Forli Airport
-Fairmont Municipal
 Floro Airport
 Fresh Water Bay Airport
-Front Royal Warren County
-Flores Airport
-Francistown Airport
 Figari Sud Corse
 Henry Post AAF
-Fort Scott Municipal
 Saint Pierre
-Shizuoka Airport
 Fort Collins Airpark
-El Calafate Airport
 Godman AAF
 Fortuna Ledge Airport
-Marillac
-Fulton County Airport Brown Field
-Fuerteventura Airport
-Fukue Airport
-Fukuoka Airport
 Futuna Pointe Vele
 Osprey Lodge Airport
 Baledogle Airport
 Baikonour Airport
-Fallbrook Community Airpark
-Hagadera
-Othello Municipal
-Byerley
 Amberley Airport
-Big Sky Field
-Gansner Field
 Donlin Creek Mine Airport
-Three Forks Airport
-Rexburg Madison County
 Latacunga Airport
-Las Palmas Airport
-Kern Valley
 Golden Creek Mine Airport
 Grace Harbor Airport
 Unuk River Airport
-Inigok
 Fort Worth NAS JRB Carswell Field
-Farewell Airport
-Fort Worth Spinks
 Bullen Point AFS
 Nova Freixo Airport
-Frankfort Municipal
-Forest City Municipal
-Faya Largeau Airport
-Fort Yukon Airport
-Barwick Lafayette
 Gracias Airport
 Matmata Northeast
-Yamagata Airport
 Edward G Pitka Sr
-Gambell Airport
 Gan Island Airport
 Los Canos
-Gao Airport
-Garaina Airport
 Gap Tallard
 Guwahati International
-Gangaw Airport
-Gaya Airport
 Goose Bay AAF
-Galbraith Lake Airport
 Marie Galante Airport
-Gbangbatok Airport
 Walter J Koladza
-Khashm El Girba Airport
-Guacamayas Airport
-Guernsey Airport
 Donaldson Field
-Gode Airport
-Golden Horn Lodge Seaplane Base
-Gardner Municipal
 Gdansk Lech Walesa
 Gonder Atse Tewodros
 Magadan Airport
@@ -1271,119 +601,54 @@ Delaware Coastal
 Ganes Creek Airport
 Santo Angelo Airport
 General Santos Airport
-Geraldton Airport
 Gallivare Airport
-South Big Horn County
-Shelbyville Municipal
 Malmstrom AFB Heliport
 Togiak Fish Airport
-Griffith Airport
-Grafton Airport
 Bartica Airport
 Granville Mont Saint Michel
-Grootfontein Airport
-Gagnoa Airport
 Noumerat Moufdi Zakaria
 Governors Harbour Airport
-Great Harbour Cay Airport
-Ghat Airport
-Gualeguaychu Airport
-Gibraltar Airport
 Galeao Antonio Carlos Jobim International
-Gilgit Airport
-Gisborne Airport
 Gizan Saudia Arabia
-Guanaja
 Guajara Mirim
-Goroka Airport
 Bonnie Doon
-Gulkana Airport
 Station Nord Airport
 Hyde Fjord Ice Strip
 Glasgow Airport
-Golfito Airport
 Greenville Mid Delta
-Glen Innes Airport
 Gaalkacyo
-Glenormiston Airport
-Goulimime Airport
 Glennallen Airport
-Gaylord Regional
 Scholes International at Galveston
-Gladstone Airport
-Golovin Airport
-Glasgow Municipal
-Gemena Airport
-Guerima Airport
 Granite Mountain AS
-Hrodna Airport
 Grenoble Isere
 Maurice Bishop International
 General Roca Airport
-Goodnews
-Genova Sestri
 Goba Airport
-Nuuk Airport
-Goa Airport
-Gold Beach Municipal
 Goma Airport
-Goondiwindi Airport
-Gorakhpur Airport
-Gore Airport
 Gosford Airport
 Garoua Airport
-Gove Airport
-Gorna Oryahovitsa Airport
 Guapi Airport
-Grand Prairie Municipal
-Baltra
 Grand Rapids Itasca County Gordon Newstrom Field
-Horning
-Germania
 Green Bay Austin Straubel International
-Greenwood County
 Gray AAF
-George Airport
 Robert Gray AAF
 Gerona Costa Brava
-Gurupi Airport
 Gerald R Ford International
 Grosseto Airport
 Guarulhos Gov Andre Franco Montoro
 Graciosa Island Airport
-Granada Airport
-Graz Airport
 Seymour Johnson AFB
-Goshen Municipal
-Gustavus Airport
-Greater Southwest International
-San Jose Airport
-Genting Airport
-Sungei Tekai Airport
 Djalaluddin
 Holesov
 La Aurora International
-Guerrero Negro Airport
-Goundam Airport
-Gunnedah Airport
 Almirante Cristobal Colon
-Guam International
-Jicalapa
-Guanare Airport
 Grissom ARB
 Gutersloh Airport
-Atyrau Airport
-Guiratinga Airport
 Geneva Airport
-Gordonsville Municipal
-Governador Valadares Airport
 Richards Gebaur AFB
 Gavle Airport
 Gweru Thornhill
-Gwalior Airport
 Greenwood Leflore
-Gwinner Roger Melroe Field
-Glenwood Springs Municipal
 Carnmore
 Mildenhall NAF
 Yagoua Ville
@@ -1393,346 +658,157 @@ Jose Joaquin de Olmedo International
 General Jose Maria Yanez International
 Gizo Airport
 Gaziantep Airport
-Marion County
 Hachijo Jima Island Airport
-Halmstad Airport
-Havasupai Airport
-Half Moon Bay Airport
-Hannover Airport
-Hamburg Airport
 Noibai International
 Butler County Regional Hogan Field
-Long Island Airport
-Hail Airport
-Karmoy
 Jose Marti International
-Haycock Airport
 Hobart Airport
 Hanus Bay Airport
 Hobart Bay Airport
 Harbour Island Airport
 Babelegi Heliport
-Jim Hogg County
 Hood Bay Airport
-Howard County
 Shoal Cove Airport
-Holy Cross Airport
 Hidden Falls Airport
 Heidelberg AHP
-Hyderabad Airport
-Heringsdorf Airport
-Hamadan Airport
-Hoedspruit Airport
-Herat Airport
-Herendeen Bay
-Heho Airport
 Heide Buesum
-Hermiston Municipal
 Herrera International
 Hardy Anders Field Natchez Adams County
 Haifa Airport
 Mackall AAF
 Hornafjordur
-Hammerfest Airport
-Hughenden Airport
 Helgoland Duene
-Mae Hong Son Airport
-Korhogo Airport
 Mount Hagen Airport
 Hogatza Airport
-Hachinohe Airport
-Hilton Head Airport
 Frankfurt Hahn
 Kai Tak Heliport
-Hiawatha Municipal
-Mount Washington Regional
 Hill AFB
-Lake Havasu City Airport
-Hiroshima Airport
-Daniel K Inouye International
 Sacheon AB
 Hayman Island Airport
-Khajuraho Airport
-Blytheville Municipal
-Hakodate Airport
-Hong Kong International
 Hokitika Airport
 Hoskins Airport
-Kaanapali Airport
-Hawkins Field
 Lanseria International
 Hailar Airport
-Hultsfred Airport
-Hollister Municipal
-Park Township
-Holbrook Municipal
-Hamilton Airport
-Hamilton Airport
 Krim Belkacem
 Holloman AFB
 General Ignacio P Garcia International
 Homeshore Airport
-Hemet Ryan
-Hanamaki Airport
-Billy Mitchell
-Tokyo International
 Hienghene Henri Martinet
-Hoonah Airport
-Daniel K Inouye International
-Hana Airport
-Haines Airport
-Hooker Creek Airport
 Holikachuk Airport
-Homer Airport
 Hof Plauen
-Horta Airport
-Hovden
 Panama Pacifico International
-Salote Pilolevu
-Hooper Bay Airport
 Catbi International
-Hampton Municipal
-Princeville
 Robert Gabriel Mugabe International
 Kharkov Airport
 Linton On Ouse
 Shaoguan Airport
-Hastings Municipal
 Huesca Airport
-Huslia Airport
-Ingalls Field
-Hatfield Airport
-Hawthorne Industrial
-Hamilton Island Airport
-East Hampton Airport
 Tri State Milton J Ferguson Field
-Hato Corozal Airport
 Redstone AAF
 Dr Hermenegildo Ortiz Quinones
-Humera Airport
 Terre Haute Regional
-Huehuetenango Airport
 Huahine Fare
 Phubai International
-Houma Terrebonne
-Hualien Airport
-Hughes Airport
 Hutchinson Regional
 Alferez FAP David Figueroa Fernandini
-Hudiksvall Airport
 Bahias de Huatulco International
-Humberside Airport
-Analalava Airport
-Hervey Bay Airport
-Hopkinsville Christian County
 Hawk Inlet Airport
-Hyderabad Airport
 Hollis Seaplane Base
 Husavik Airport
 Hazleton Regional
-Shenandoah Municipal
-Webster City Municipal
-Red Oak Municipal
 McConnell AFB
 In Amenas Airport
 Yaroslavl Airport
 Iasi International
-Ibadan Airport
 Itambacuri Airport
-Ibiza Airport
-Cicia Airport
 Wichita Dwight D Eisenhower National
-Icy Bay Airport
-Indiana County
 Santa Isabel Do Morro Airport
 Indore Airport
 Isafjordur Airport
-Innisfail Airport
 Ivano Frankovska International
-Inagua Airport
-Igiugig Airport
-Ingham Airport
-Cigli
-Kingman Airport
 Maria Cristina
 Chigorodo Airport
-Ihu Airport
 Rantoul National Aviation Center
-De Kalb Taylor Municipal
-Logan County
 Ijui Airport
-Jacksonville Municipal
 Imam Khomaini International
-Iki Airport
 Nikolski AS
-Irkutsk Airport
 Nevatim AB
-Skylark Field
-Iliamna Airport
-Willmar Municipal
 Wilmington Air Park
 Iloilo Airport
 Ile Des Pins Moue
-Ilo Airport
 Ilorin Airport
-Islay Airport
 Zilina International
-Imphal Airport
-Imperial Municipal
 Imperatriz Airport
-De Kalb County
-Indianapolis Executive
-Hedong
-In Guezzam Airport
-Lago Argentino Airport
-Inhambane Airport
 Falls International Einarson Field
-Innsbruck Airport
-Inongo Airport
 Creech AFB
 Nauru Island
-Inverness Airport
-Ioannina Airport
-Isle of Man Airport
-Impfondo Airport
 Inishmore Airport
 Bahia Jorge Amado
 Ile Ouen Airport
 Mataveri International
-Ipil Airport
 Ipoh Sultan Azlan Shah
 Al Taqaddum AB
 Al Asad AB
 Diego Aracena International
 Coronel Francisco Secada Vignetta International
-Ishurdi Airport
 Iron Range Airport
-Iringa Airport
 Capitan Vicente A Almonacid
-Birao Airport
 Isiro Airport
 Sturgis Airport
 Roy E Ray
-Mount Isa Airport
 Scilly Isles Airport
-Ishigaki Airport
 Ischia Airport
-Isisford Airport
-Isla Mujeres Airport
 Isabel Pass Airport
 Kinston Regional Jetport at Stallings Field
 Long Island MacArthur
-Schoolcraft County
 Istres Le Tube
-Wiscasset Airport
-Ataturk
-Itabuna Airport
-Itaqui Airport
-Inus Airport
 Ambanja Ambalavelona
-Invercargill Airport
-Berane Airport
-Ivalo Airport
-Inverell Airport
 Ivanovo Airport
-Gogebic Iron County
-Iwami Airport
 Iwoto Airport
-Agartala Airport
 Baghdogra
-Chandigarh Airport
-Allahabad Airport
-Belgaum Airport
-Kailashahar Airport
 North Lakhimpur Lilabari
-Jammu Airport
-Keshod Airport
 Leh Airport
-Madurai Airport
-Kamalpur Airport
 Ranchi Airport
-Silchar Airport
-Aurangabad Airport
 Jamshedpur Airport
-Kandla Airport
-Port Blair Airport
-Inyokern Airport
 Izmir Metropolitan Area
-Izumo Airport
-Ixtepec Airport
-Jabiru Airport
 Shahbaz AB
 Jaipur Airport
 Perimeter Mall Helipad
-Jacmel Airport
 Jackson Medgar Wiley Evers International
 Beaver Ruin
 Boston City Heliport
 Berkeley Municipal Heliport
-Commerce Business Park Heliport
-Croisette Heliport
 China Basin Heliport
-Oakland Convention Center Heliport
 Christianshab Airport
-Julia Creek Airport
 Grant County Regional Ogilvie Field
-Downtown Heliport
-Juiz
 Edgewater Inn Helipad Sea Wash
-Jodhpur Airport
 Miami Downtown Heliport
 Regional de Cariri
 Minneapolis Heliport
 Houston Central Business District Heliport
 Jeremie Airport
-Jersey Airport
 Seattle 1st National Bank Helipad
-Northeast Ohio Regional
 Frederikshaab
-Jamnagar Airport
 Grand Canyon Heliport
-Galleria
 Greenway Plaza Heliport
 Transco Tower Galleria Heliport
 Helsingborg Heliport
-Kapalua Airport
-Sisimiut Airport
 Chautauqua County Jamestown
-Cambridge Airport
 Djibouti Ambouli
-Civic Financial Center Heliport
-Jilin Airport
 Aba Segud Negus Wolde Giorg
-Jinja Airport
-Juanjui Airport
 Jonkoping Airport
 Chios Airport
-Kalymnos Airport
-Janakpur Airport
 Jakarta Metropolitan Area
-Quartz Creek
-Jabalpur Airport
 Astrodome
-Jamba Airport
 Marin County Heliport
-Harbour Heliport
-Downtown Heliport
 Oliver Reginald Tambo International
 Nanortalik Airport
 Newport Beach Airport
 Prince Hasan
 Al Shaheed Mwaffaq Salti Air Base
-Azraq Highway Strip
-Centerport Heliport
-Joensuu Airport
 Adisutjipto
-Port St Johns Airport
 Joinville Airport
-Jolo Airport
-Njombe Airport
 Orange County Heliport
-Futenma MCAS
-Pan Am Building Heliport
 Ji Parana Airport
 Park Ten Helipad
 CONCORD REGIONAL
@@ -1740,301 +816,119 @@ West 30th Street Heliport
 Downtown Manhattan Wall Street Heliport
 Appache Heliport
 East 60th Street Heliport
-Jorhat Airport
-Jerusalem Airport
 Jose Aponte de la Torre
 Juneau Seaplane Base
-Alexandros Papadiamantis
-Crossroads Heliport
 Sodertalje Heliport
-Jessore Airport
 Dimitrios Vikelas
-Santorini Airport
-Juba Airport
 Jujuy Airport
 Juliaca Airport
-Jumla Airport
-Upernavik Airport
-Westchase Heliport
-John C Tune
 Olympic Hotel Helipad Sea Wash
-Jyvaskyla Airport
-James H Easom Field
-Orange Municipal
-Stanley Municipal
 Ganda Airport
-Trading Bay Production
-Chamberlain Municipal
 Jui Zhai Huang Long
-Portland Municipal
-Cloquet Carlton County
 San Clemente Island Nalf
-Hog River Airport
-Quincy Municipal
-American Falls Airport
-Prospect State
 Brooksville Tampa Bay Regional
-Laurel Municipal
 William H Morse State
-North Little Rock Municipal
 Evergreen Regional Middleton Field
-Angwin Parrett Field
-Idaho County
 Taszar Airport
-Russellville Logan County
-Kasama Airport
-Kaduna Airport
-Kake Seaplane Base
 Kangung
 Kaieteur Airport
-Kajaani Airport
-Kaltag Airport
 Mallam Aminu Kano International
-Kuusamo Airport
-Kamarang Airport
-Kaitaia Airport
 Kawthaung Airport
-Birch Creek Airport
-Bell Island Hot Springs Seaplane Base
-Pakuba
 Klag Bay Airport
 Hamid Karzai International
-Kabalo Airport
-Bo Airport
-Krabi Airport
-Chignik Bay
 Kuche
-Coffman Cove Seaplane Base
-Collinsville Airport
 Chignik Bay Airport
 Fairfax Municipal
-Chignik Lagoon Airport
-Chernofski Harbor
-Chignik Lake
-Colorado Creek Airport
-Kochi Airport
-Kandahar Airport
 N Djole Airport
-Kodiak Municipal
 Kamphang Saen Airport
-Nanwalek Airport
 Kaedi Airport
-Kenmore Air Harbor
-Ekwok Airport
 Kiel Holtenau
 Kemi Tornio
-Kenema Airport
 Odienne IV Coast
-Kerman Airport
-Kiffa Airport
-False Pass Airport
-Kananga Airport
-Kingscote Airport
 Karaganda Airport
 Kedougou Airport
 Kalgoorlie Airport
-Karonga Airport
-Koliganek Airport
-Kos Airport
-Keningau Airport
-Grayling Airport
-Glacier Creek Airport
 Kherson Airport
 Khabarovsk Novy
-Ivanof Bay Seaplane Base
-Kristianstad Airport
 Kish Island Airport
-Niigata Airport
 Kirkuk Airport
-Kimberley Airport
-Kisumu Airport
 Alexandros Aristotelous Onassis
 Chisinau International
 Kitwe Nkana
-Kilwa Masoko
 Ching Chuan Kang AB
 Kitoi Bay Airport
-Khon Kaen Airport
-Kerikeri Airport
-Kongiganak Airport
-Akiachak Airport
 Kitakyushu Airport
-Kalakaket Creek AS
-Karluk Lake Seaplane Base
 Hoybuktmoen
-Kaikohe Airport
-Ekuk Airport
-Kikwit Airport
-Kalabo Airport
-Kalskag Airport
-Levelock Airport
-Larsen Bay Airport
 Kelp Bay Airport
-Kalmar Airport
-Klagenfurt Airport
 Karlovy Vary Airport
-Klawock Airport
-Kalamata Airport
-Kerema Airport
 King Saud AB
-Kamina Airport
-Wujiaba
-Miyazaki Airport
-Kumamoto Airport
 Manokatak Seaplane Base
-Keetmanshoop Airport
-Komatsu Airport
-Kumasi Airport
 Kisimayo
 Khamis Mushait Airport
 Moser Bay Airport
-Kaoma Airport
-Kanab Municipal
-Kindu Airport
-Kokhanok Airport
-Kankan Airport
 Capanda Dam
-King Island Airport
-Kennett Memorial
 Kanpur Chakeri
-New Stuyahok Airport
-Kununurra Airport
-Kenieba Airport
 Ellison Onizuka Kona International at Keahole
-Koolatah Airport
-Kirkwall Airport
-Kagoshima Airport
 Kokkola Pietarsaari
-Kontum Airport
-Nakhon Phanom Airport
 Kokoro Airport
 Kompongsom Airport
-Kotlik Airport
-Ganzhou Airport
-Olga Bay Seaplane Base
-Ouzinkie Airport
 Point Baker Airport
 Port Clarence CGS
 Pauloff Harbor Airport
-Kapit Airport
 Parks Seaplane Base
 Napamute Airport
-Kipnuk Airport
-Pohang Airport
-Kalpower
 Port Williams Airport
-Kempsey Airport
-Perryville Airport
 Port Bailey Airport
 Akutan Airport
-Karumba Airport
 Kramfors Solleftea
 John Paul II Balice
-Kasitsna
-Kiruna Airport
-Karup Airport
-Pashkovskiy
-Kjevik
 Khartoum Airport
-Coffey County
 Kosrae Airport
 Kosice International
-Karlstad Airport
-Kasese Airport
 Kassel Calden
-Kissidougou Airport
-Karshi South
-Kassala Airport
 St Mary s Airport
 Kastoria Airport
-Kosipe Airport
 Federal No 1
-Karratha Airport
-Thorne Bay Seaplane Base
-Kitale Airport
 Katherine Airport
-Brevig Mission Airport
 Kittila Airport
-Pyrzowice
-Kuantan Airport
-Kudat Airport
-Kushiro Airport
 Kawau Island Airport
-Kasigluk Airport
-Yakushima Airport
-Kuopio Airport
 Kunsan AB
 Kugururok River Airport
-Kamusi Airport
 Megas Alexandros International
-King Cove Airport
-Kavieng Airport
-Kivalina Airport
 Bucholz AAF
-Waterfall Seaplane Base
-Gwangju Airport
-Kwigillingok Airport
-Quinhagak Airport
-West Point Village
-Kwethluk Airport
-Kolwezi Airport
-Kasaan Seaplane Base
 Komsomolsk South
-Stuart Powell Field
-Sturgis Municipal
-Henderson City County
 Madisonville Regional
-Konya Airport
-Yankee Creek 2
-Karluk Airport
-Kayes Airport
-Koyukuk Airport
 Zachar Bay Airport
 Kizhuyak Airport
 Kazan Airport
-Lab Lab Airport
 Pulau Layang Layang Airport
 Luanda 4 de Fevereiro
 Lannion Airport
-Lages Airport
 Aklavik Airport
-Los Alamos Airport
 Capital Region International
 General Manuel Marquez de Leon International
 El Beida
 Lamu Manda
-Ladysmith Airport
 Bom Jesus Da Lapa Airport
 Luebeck Blankensee
-North Platte Regional Airport Lee Bird Field
 Paris Le Bourget
 Albi Le Sequestre
 Liberal Mid America Regional
-Long Banga Airport
-Lambarene Airport
-Labasa Airport
-Labuan Airport
 Libreville Leon M Ba
-Lubang Airport
 Saint Nazaire Montoir
 Larnaka International
 Lecce Airport
 A Coruna Airport
-Laconia Municipal
-La Cumbre Airport
 Las Canas Airport
 Governador Jose Richa
 Tarbes Lourdes Pyrenees
-Lord Howe Island Airport
 Lindi Airport
-Linden Airport
 Lidkoping Airport
-Lahad Datu Airport
 Landivisiau Airport
 Londonderry Airport
-Learmonth Airport
 Aleg Airport
 Almeria Airport
+Leipzig Halle
 Labe Airport
 Leconi Airport
 Alfredo Vasquez Cobo
@@ -2043,227 +937,112 @@ Langley AFB
 Kelafo Airport
 Francisco Javier Garcia Hevia
 Lafayette Regional Paul Fournet Field
-Gnassingbe Eyadema International
-LaGuardia
-Long Beach Airport
 LaGrange Callaway
 La Grande Union County
 Liege Airport
-Leigh Creek Airport
 Deadman s Cay Airport
 Longmont Municipal
 Legazpi Airport
 Lago Agrio Airport
 Malargue Airport
 Logan Cache
-Lahr Airport
 Lost Harbor Airport
 Allama Iqbal International
-Lightning Ridge Airport
-Lake Havasu City Airport
 William T Piper Memorial
-Liangping Airport
-Limbunya Airport
-Limon Municipal
-Libenge Airport
 Limoges Bellegarde
-Lihue Airport
-Long Island Airport
 Likiep Island Airport
 Lille Lesquin
 Jorge Chavez International
-Puerto Limon
-Lisala Airport
 Daniel Oduber International
 Bill and Hillary Clinton Nat Adams Field
 Livengood Airport
-Loikaw Airport
 Wright AAF Midcoast Regional
-Loring International
-Lodja Airport
-Sanyi
 Brazoria County
 Ljubljana Airport
 Floyd W Jones Lebanon
 Lake Union Terminal
-Kulik Lake Airport
 Nekempte Airport
-Leknes Airport
 Chaudhary Charan Singh Lucknow International
-Lake Placid Airport
-Kallax
-Lalibella Airport
-Kamuzu International
 Lake Minchumina Airport
-Lumi Airport
-Limbang Airport
-Lampedusa Airport
 Marsa Brega S21
-Louisville Winston County
 Crater Lake Klamath Regional
-Lonorore Airport
 Lonely AS
-Lincoln Airport
 Kings Land O Lakes
-Lonesome Pine
-Lancaster Airport
-Lanett Municipal
-Lanai Airport
 Linz Airport
-Lorraine Airport
 Ciudad de Catamayo
 Laredo Municipal
 Francisco P V Yr
 London Metropolitan Area
-Lobatse Airport
 Venustiano Carranza International
 London Corbin Airport Magee Field
-Lompoc Airport
 Saab
 Liverpool Airport
-La Porte Municipal
-Lappeenranta Airport
-Lopez Island Airport
-Lampang Airport
 Little Port Walter Airport
 Larissa Airport
-RAF Laarbruch
-Longreach Airport
 Little Rock AFB
 Loring Airport
 La Rochelle Laleu
 Lorica Airport
 Casa de Campo International
-Larson AFB
 Sharpe AFF
 Lorient Lann Bihoue
-Kiriwina
 Blue Grass Station AHP
 La Crosse Regional
 Lawson AAF
-Los Chiles Airport
-Los Banos Municipal
 Maria Dolores
-Lost River 1
 Terre de Haut
-Launceston Airport
-Long Sukang Airport
 Nellis AFB
-Lhok Sukon Airport
-Letaba
 Ghadames Airport
-Altai Airport
-Lethem Airport
 Le Touquet Cote D Opale
 Altus AFB
 Lotusvale Airport
-Lukla Airport
-Luderitz Airport
 Lucenec Airport
 Luke AFB
-Lugano Airport
-Lusikisiki Airport
-Hesler Noble Field
-Kalaupapa Airport
-San Luis Airport
+Cincinnati Municipal Lunken Field
 Laura Station Airport
 Luxembourg Airport
-Livramento Airport
-Lime Village Airport
 Harry Mwanga Nkumbula
-Livingston Airport
-Laverton Airport
-Lawrenceburg Lawrence County
 Wells Municipal Harriet Field
-Lawrenceville Vincennes International
-Lawas Airport
 Lemnos Airport
-Lycksele Airport
 Lyon Bron
 Lyon Saint Exupery
-London Ashford
 Lazaro Cardenas Airport
-Luzhou Airport
-Lizard Island Airport
-Katama Airpark
 Joao Correa Da Rocha
-Macon Downtown
 Adolfo Suarez Madrid Barajas
 Midland International Air and Space Port
-Madang Airport
-Mangochi Airport
-Malakal Airport
-Manchester Airport
-Mamai Airport
 Matadi Tshimpi
 Maupiti Fr Polynesia
-Malden Regional
 Matam Ouro Sogui
 Clarence A Bain
 Eugenio Maria de Hostos
 Maryborough Qld
-Mbeya Airport
-Matupa Airport
 Manistee County Blacker
-Mamburao Airport
 Masbate Airport
-Mbambanakira Airport
-Maribor Airport
-Omar N Bradley
 Maues Airport
-Macenta Airport
 McComb Pike County John E Lewis Field
 McClellan Airfield
-Mackinac Island Airport
 Macdill AFB
-McGrath Airport
-Maicao Airport
 McCook Ben Nelson Regional
-Denali
 Monaco Heloport
-Melchor de Mencos Airport
-Monte Caseros Airport
 Gueret Lepaud
 Zumbi Dos Palmares
 Martindale AHP
-Melinda Airport
-Midland Airpark
 Jose Maria Cordova
-Taylor County
-Makurdi Airport
-Madras Municipal
-Mbandaka Airport
 Mandalay Airport
-Middleton Island Airport
 Mar del Plata Airport
-Medfra Airport
 Conch Bar
-Mendi Airport
 Mercedes Aeroclub
 Sand Island Field
 Steven A Bean Municipal
 Macae Airport
 Prince Mohammad Bin Abdulaziz International
-Port Meadville
 Mende Brenoux
 Mersing Malay
-Polonia
 Minden Tahoe
-Meghauli Airport
 McAllen Miller International
-Moanda Airport
-Muzaffarabad Airport
-Mesquite Airport
-Milford Sound Airport
-Maradi Airport
-Miraflores Airport
 Mangham Field
-Mfuwe Airport
-Accomack County
 Augusto Cesar Sandino International
-Mount Gambier Airport
 Michigan City Municipal Phillips Field
-Magdalena Airport
 Dobbins ARB
 Silvio Name Junior
 Moenchengladbach
@@ -2272,19 +1051,11 @@ Moultrie Thomasville Airport
 Mangaia Cook Island
 Morgantown Municipal Walter L Bill Hart Field
 Dayton Wright Brothers
-Mahdia Airport
 Shahid Hashemi Nejad International
-Mitchell Municipal
 Mannheim City
-Leonard M Thompson International
-Marshall Memorial Municipal
-Minchumina Airport
-Mount House Airport
-Mariehamn Airport
 Manchester Boston Regional
 Mojave Air and Space Port
 Mildenhall Airport
-Greenville Municipal
 West Michigan Regional
 Livingston County Spencer J Hardy
 Minot AFB
@@ -2292,387 +1063,182 @@ Licenciado Manuel Crescencio Rejon International
 Delaware County Regional
 Frank Miloye Milenkovich
 Mili Airport
-Mikkeli Airport
 Milan Metropolitan Area
-Merimbula Airport
-Minnipa Airport
-Miami Regional
 Har Arikha
-Millard
 Shafter Minter Field
 Maiduguri Airport
-Marshalltown Municipal
 Miriti Pirana
 Mainoru Airport
-Manja Airport
-Mejit
-Man Airport
-Moenjodaro Airport
 Kjaerstad
-Mayajigua Airport
 Mitiga International
 Mouila Airport
-Philibert Tsiranana
-Jackson Airport
 Mitilini
 Murcia San Javier
-Ocean County
-Mirny Airport
 Marianske Lazne Airport
 Charles B Wheeler Downtown
 Obo Mboki Airport
-Makoua Airport
 McKellar Sipes Regional
-Mukah Airport
 Muskogee Davis Regional
-Makemo Airport
-Meekatharra Airport
-Mekane Selam Airport
-Makokou Airport
-Mackay Airport
-Malacca Airport
 Luqa International
 McAlester Regional
-Malad City Airport
 Velana International
 Milford Municipal Ben and Judy Briscoe Field
-Malta Airport
 General Francisco J Mujica International
-Melilla Airport
-Milos Airport
-Malabang Airport
-Malalaua Airport
-Merluna Airport
 Monrovia Spriggs Payne
 Malatya Airport
-Manley Hot Springs Airport
-Melo Airport
 Malmo Metropolitan Area
-Memanbetsu Airport
-Cuauhtemoc
 Minami Daito Airport
 Mammoth Lakes Airport
-Matsumoto Airport
-Murmansk Airport
 Southwest Minnesota Regional Marshall Ryan Field
-Middlemount Airport
-Minute Man Air Field
 Mompos Airport
-Mbala Airport
 McEntire Jngb
 Malmo Airport
-Fosston Municipal
-Moose Lake Carlton County
-Ortonville Municipal Martinson Field
 Nacala International
 John A Osborne
-Maiana Airport
-Marion Municipal
-Manono Airport
-Mongu Airport
-Mansa Airport
-Minto Al Wright
-Mawlamyine Airport
+Menominee Marinette Twin County
 Manicore Airport
 Manassas Regional Harry P Davis Field
-Midwest National Air Center
 Mario Ribeiro
 Modesto City County Harry Sham Field
-Mong Hsat Airport
 Moudjeria Ledfotar
-Mount Cook Airport
-Mount Pleasant Municipal
-Morondava Airport
-Moore Murrell
-Moses Point Airport
-Mountain Village Airport
 Moscow Metropolitan Area
-Monterrey Airport
 Temae
 Watson Island International
 Montpelier Airport
-Petit Jean Park
-Mokpo Airport
 Montpellier Mediterranee
-Maputo Airport
-Mount Pleasant Airport
 McPherson Airport
-Mount Pleasant Municipal
-Maliana Airport
-Miyanmin Airport
-Macomb Municipal
 Indianapolis Regional
-Mildura Airport
 Rossvoll
-Moundou Airport
-Mustique Airport
 Mek ele Airport
-Smyrna Airport
 Misrata International
 Eastern WV Regional Shepherd Field
-Maury County
 Beaufort Morehead City
-Marco Island Airport
 Morganton Lenoir
 Grand Case Airport
-Mineralnyye Vody Airport
 Del Caribe International
 Monterey Regional
-Moree Airport
-Grenada Municipal
-Muskrat Dam Airport
-Manston Airport
 Masirah Airport
 Misawa AB
 Minneapolis St Paul International
-Minsk 2
-Sullivan County International
 Yuri Gagarin
-Colstrip Airport
-Mount Sanford Station
-Monte Alegre Airport
+Selfridge Angb
 The Florida Keys Marathon International
-Maitland Airport
 Metlakatala
-Coles County Memorial
 Sky Portal
 Minatitlan Airport
-Mota Lava Airport
-Manitowoc County
-Metro Field
 Israel Bar Yehuda
-Munda Airport
-Maun Airport
 Muenchen
-Mulege Airport
-Mersa Matruh Airport
 Jose Tadeo Monagas International
 Mountain Home AFB
-Marudi Airport
-Muscatine Municipal
-Musoma Airport
 Mvengue Airport
 Dixsept Rosado
-Marlboro
-Kayenta Airport
-Mount Vernon Airport
-Skagit Regional
 Martha s Vineyard Airport
 Veterans Airport of Southern Illinois
 Mianwali Airport
-Mineral Wells Airport
 Middletown Regional Hook Field
-Mwanza Airport
-Monticello Airport
-Laurinburg Maxton
 Maxwell AFB
-Marlboro Airport
-Moro Airport
-Minna Airport
 General Rodolfo Sanchez Taboada International
-Maota Airport
-Maintirano Airport
-Mora Airport
 McCarthy Airport
-Moruya Airport
-Mayumba Airport
 Maracay Airport
-Malindi Airport
 Miyake Jima Airport
 Montgomery Gibbs Executive
-Mayaguana Airport
-Cliff Dwellers
-Matsuyama Airport
-May Creek Airport
-Mary Airport
-Myitkyina Airport
-Mekoryuk Airport
-Mtwara Airport
-Miri Airport
 Mocimboa Da Praia Airport
 Ma Kung AB
-Ambodedjo
-Marakei Airport
 Metz Nancy Metz Frescaty
 Minj Airport
 Sierra Maestra International
 Mawlana Jalaluddin Muhammad Balkhi
-Marion Municipal
-Pottstown Municipal
-Trenton Robbinsville
-Narrabri Airport
-Harriman and West
 Dr Baba Saheb Ambedkar International
-Nakhon Ratchasima Airport
-Nanchong Airport
-Capodichino
-Augusto Severo
-Napuka
-Nambaiyufa Airport
 Newburgh Airport
 Suvarnabhumi International
 Nairobi Jomo Kenyatta International
 Glenview NAS
 Guantanamo Bay NS
-Gastonia Municipal
 Johnston Regional
 Shelby Cleveland County Regional
-Currituck County Regional
-Duplin County
 North Caicos International
 Nice Cote D Azur
-Nachingwea Airport
-Necocli Airport
-Newcastle Airport
-Quonset State Air Reserve National Guard Helipad
 Cubi Point NAS
 Dobbins ARB
-Newcastle Airport
 Miguel Angel Castillo Zumbado
-Nukus Airport
 Annecy Meythet
 Robert Odegaard Field
 Nouadhibou Airport
-Nanded Airport
-Hassan Djamous
 Ndele Airport
 El Aroui International
 Nordholz Spieka
-Gothenburg Municipal
-Blair Municipal
 Glynco NAS
-Negril Airport
-Neryungri Airport
-New Bight Airport
 Samneua
 Vance Winkworth Amory
-Fallon NAS
-Young Airport
 North Rim
 N Gaoundere Airport
 Agana NAS
-Nagoya Airport
 Corpus Christi NAS
-Nagasaki Airport
 Norfolk NS
 Alameda NAS
 Minhad AB
 Patuxent River NAS
 Nuku Hiva Fr Poly
-Nimba Airport
-Nikolai Airport
 Nicosia Airport
 Niblack Airport
-Nikunau Airport
-Ninilchik Airport
 Jacksonville NAS
 Niort Airport
 Nioro Airport
-Camden County
-Eagles Nest
-Atsugi NAF
-Nizhnevartovsk Airport
 El Centro NAF
 Nkan Airport
 Nouakchott Airport
 Naukiti Airport
-Nankina Airport
-Nkongsamba Airport
-Nichin Cove Seaplane Base
 Diego Garcia Nsf
-Miramar MCAS
-Ndola Airport
 Lemoore NAS
 Quetzalcoatl International
-Nelson Lagoon Airport
 Norfolk Island Airport
 N Dolo
-Nelspruit Airport
 Nicholson Station
 Norman s Cay Airport
-Nightmute Airport
-San Miguel Airport
-Kenitra Airport
-Naknek Airport
-Nondalton Airport
-Nanuque Airport
 Nanyang East
-Nowra Airport
 Ireland West Airport Knock
-Nonouti Airport
 Nordfjordur Airport
 Noumea La Tontouta
 Huambo Airport
 Pensacola NAS
 Napier Airport
-New Plymouth Airport
-Newport State
 Kingsville NAS
 Key West NAS
 Newquay Airport
-Narrandera Airport
 Mayport NS
-Grand Lake Regional
-Kungsangen
-North Ronaldsay Airport
 Roosevelt Roads NAS
 Noosa Aust
-North Seaplane Base
 Whiting Field NAS North
 Joint Base Andrews
 Yaounde Nsimalen
 NASA Shuttle Landing Facility
-Nelson Airport
-Scone Airport
-Nakhon Si Thammarat Airport
 Sigonella Airport
 Snap Lake Mine Debeers
 Point Mugu NAS
-Williamtown
-Normanton Airport
 Santo Antao Airport
+Oceana NAS
 Nuernberg
 Nuguria Airport
-Nuiqsut Airport
-Nulato Airport
 Saufley Field NOLF
-Nunapitchuk Airport
 Whidbey Island NAS
-Perkins Field
-Nevada Municipal
-Narvik Airport
-Norwich Airport
 Willow Grove NAS JRB
 Kingston Ulster
-Oswego County
 F and F Airpark Inc
 New York City Metropolitan Area
 Yuma MCAS Yuma International
 El Toro MCAS
 South Weymouth NAS
 North Island NAS
-Benton Field
-Orange Airport
 Bagram Airport
-Oamaru Airport
 El Arrayan
 Xoxocotlan International
-Obock Airport
-Oberpfaffenhofen Airport
-Obihiro Airport
 Aubenas Airport
-Garrett County
-Kobuk Airport
-Ocean City Municipal
 Ocala International Jim Taylor Field
 Nacogdoches A L Mangham Jr Regional
 Thumb Bay
 Bob Maxwell Memorial Airfield
 Washington Warren
-Ouadda Airport
 Cordoba Airport
-Oodnadatta Airport
-Odense Airport
 Oakland Airport
 A J Eisenberg
 Oecusse Airport
@@ -2680,56 +1246,25 @@ Ornskoldsvik
 Offutt AFB
 Norfolk Regional Karl Stefan Memorial Field
 Ofu Airport
-Searle Field
-Kahului Airport
-Yonaguni Airport
-Fayette County
-Bellefontaine Regional
-Ross County
-Cincinnati Blue Ash
-Portage County
-Kent State University
 Ohakea Airport
 Northeast Cape AFS
 Ohrid Airport
-Oshakati Airport
 Wyk Auf Foehr
-Eaton
-Oita Airport
-Okayama Airport
-Okondja Airport
 Yokota AB
-Yorke Island Airport
-Oakey Airport
 Orland Airport
 Cattaraugus County Olean
-Old Harbor Airport
-Rif
 Olomouc Airport
-Olympic Dam Airport
-Olive Branch Airport
 Omboue Airport
-Nome Airport
 Uromiyeh
-Omak Airport
-Omkalai Airport
 Mostar Airport
 Oradea Airport
-Omsk Tsentralny
 Winona Municipal Max Conrad Field
-Ondangwa Airport
-Mornington Island Airport
-Oneonta Municipal
-Odate Noshiro Airport
 The O Neill Municipal John L Baker Field
-Socorro Municipal
 Onion Bay Airport
 Enrique A Jimenez
 Cobol Alaska Scaled
-Gold Coast Airport
 Cooma Airport
 Miami Opa Locka Executive
-Ophir Airport
 Porto Airport
 McDonald Lake Airport
 Bible Camp Airport
@@ -2738,107 +1273,51 @@ Lemesurier Island Airport
 Tracy Arm Airport
 Vrems Airport
 Akolik Airport
-Mels Airport
 Meshik Airport
 Telaquana Lake Airport
 Chelatna Lake Lodge Airport
 Pumice Airport
 Points Alsworth
-Twin Lakes Airport
-Sandy Airport
 Waterkloof AFB
 Shirleyville Airport
 Doug Carney Strip Airport
 Shisholik Airport
 Camp Sivinuvik
-American Creek Airport
-Grants Pass Airport
-Siletz Bay State
-Florence Municipal
 Orebro Airport
-Orocue Airport
 Chicago O Hare International
-Port Lions Airport
-Cork Airport
 Ahmed Benbella
-Orapa Airport
-Northway Airport
 Robert Bob Curtis Memorial
 Paris Orly
-Orange Walk Airport
 Osaka Metropolitan Area
-Grand Glaize Osage Beach
 Are Ostersund
-Osijek Airport
-Oskarshamn Airport
 Osan AB
 Mosnov
-Oostende
-Kosciusko Attala County
 Namsos Airport
 Raul Arias Espinoza
-Worthington Municipal
 Henri Coanda
-Coto 47 Airport
-Anacortes Airport
-Otu Airport
-Ouagadougou Airport
 Angads International
-Ouesso Airport
-Oudtshoorn Airport
-Oulu Airport
 University of Oklahoma Max Westheimer
-Batouri Airport
-Bekily Airport
-Asturias Airport
-Oroville Municipal
-Owatonna Degner Regional
 Owensboro Daviess County Regional
-Knoxville Municipal
-Goya Airport
-Oyem Airport
-Oiapoque Airport
-Tres Arroyos Airport
 Yosemite National Park Airport
 Misamis
 Moron AB
-Husky Haven
 Hpa An
-Pagadian Airport
-Port Allen
 Tyndall AFB
-Pattani Airport
-Palo Alto Airport
 Port Au Prince International
-Palmer Buddy Woods Municipal
 Paris Metropolitan Area
-Paros Airport
 Jai Prakash Narayan International Patna
 Port de Paix Airport
 Tungud Pamol
 Tajin
-Point Barrow LRRS
 Hermanos Serdan International
-Porbandar Airport
 Pine Bluff Regional Grider Field
 Paro International
 Pack Creek Airport
 Johan A Pengel International
-Porto Amboim Airport
-Paraburdoo Airport
-Puerto Barrios Airport
 Pike County Hatcher Field
-Plettenberg Bay Airport
-Portage Creek Airport
-Puerto Rico Airport
-Prairie Du Chien Municipal
 Painter Creek Airport
-Paso Caballos Airport
-Porcupine Creek Airport
 Captain FAP David Abensur Rengifo International
-Princeton Airport
 Puerto Inirida Airport
-Pedro Bay Airport
 Mueo Nickel
 Dekalb Peachtree
 Ponta Delgada Airport
@@ -2846,460 +1325,217 @@ Capitan Corbeta C A Curbelo International
 Eastern Oregon Regional at Pendleton
 Tydeo Larre Borges International
 Plovdiv Airport
-Pedernales Airport
-Las Malvinas Airport
-Andoas
-Penneshaw Airport
-Pelican Seaplane Base
 Bolshoe Savino
 Perugia S Francesco
 Matecana
-Progreso Airport
-Pelotas Airport
-Puerto Lempira Airport
 Bacha Khan International
 Paf Warren Airport
-Passo Fundo Airport
 Port Frederick Airport
 Bay County
 Pafos International
-Ilebo Airport
-Punta Gorda Airport
 Perpignan Rivesaltes
-Pantnagar Airport
-Chitato Airport
-Port Graham Airport
-Stevens Field
 Peach Springs Dirt Strip
-Phan Rang Airport
 Parnaiba Airport
 Port Harcourt Airport
-Pinheiro Airport
-Point Hope Airport
 Nanuku Resort
-Phitsanulok Airport
-Henry County
 Kruger Park Gateway
 General Downing Peoria International
 Pine Cay British West Indies
 St Pete Clearwater International
-Phillips Field
-Parintins Airport
 Pisco International
-Pilot Point Airport
 Poitiers Biard
 Capitan FAP Guillermo Concha Iberico
-Payson Airport
-Panjgur Airport
-Puerto Jimenez Airport
 Port San Juan Airport
-Napaskiak Airport
-Park Rapids Municipal Konshok Field
-Parkes Airport
-Porto Heli
-Pokhara Airport
-Selebi Phikwe Airport
-Planadas Airport
-Clinton County
-Planeta Rica Airport
-Plymouth Airport
 M Graham Clark Downtown
-Ponta Pelada Airport
-Pellston Regional Airport of Emmet County
-Port Lincoln Airport
 Providenciales International
-Plato Airport
 Pampulha Carlos Drummond de Andrade
 Palu Celebes Mutiara Indon
 Port Elizabeth International
 El Tepual International
 Palmdale USAF Plant 42
-Parma Airport
 Ponta Pora Airport
-Greater Portsmouth Regional
 Palma de Mallorca
-Port Moller Airport
-Palermo Airport
-Pimaga Airport
-Perito Moreno Airport
-Palmyra Airport
 Paimiut Airport
 General Santiago Marino International
-Palmas Airport
-Puerto Madryn
-Pamplona Airport
-Porto Nacional Airport
-Punta Gorda Airport
 Peterson s Point Airport
 Paranagua Airport
-Pantelleria Airport
-Pinotepa Nacional
-Pune Airport
-Antonio Agostinho Neto
 Pensacola International
 Sherman Denison Airport
 Petrolina Airport
 Pope AAF
 Port Frederick Airport
 Polk AAF
-Hayes Field
-Port Gentil Airport
-Pocahontas Municipal
-Pemba Airport
 Port Moresby International
 Polk Inlet Airport
-Pori Airport
 Hudson Valley Regional
-Portoroz Airport
 Pontoise Cormeilles en Vexin
-Powell Municipal
 Lawica
 A de Barros
-Prospect Creek Airport
-Palmas del Mar Airstrip
 Puerto Penasco Airport
-Tri City
 Machangara
 Powell Point Airport
-Puerto Princesa Airport
 Tahiti Faa a
 Port Protection Airport
-Puerto Paez Airport
-Palenque International
-Port Macquarie Airport
-Pilot Station Airport
+Northern Maine Regional at Presque Isle
 Ernest A Love Field
-Pine Ridge Airport
 Ruzyne
-Praslin Airport
 Capri Airport
 Pristina Airport
-Coast Guard Heliport
-Pyay Airport
 Prerov Airport
-Prineville Airport
 Pisa Airport
 Mid State
-Port Said Airport
-Pittsfield Municipal
-Pasni Airport
-New River Valley
-Palestine Municipal
 Pasto Airport
 Pescara Airport
-Posadas Airport
-Stanley Airport
 Tte Av Salvador Ogaya G International
-Port Alsworth Airport
 Port Alice Airport
 Port Alexander Airport
 Malolo Lailai Airport
-Port Heiden Airport
-Portland Airport
 Port Armstrong Airport
-Harry P Williams Memorial
 Pleasant Harbour Airport
-Atkinson Municipal
-Platinum Airport
-Porterville Municipal
-Heritage Field
-Contador
 Carbon County Regional Buck Davis Field
-Puerto Deseado Airport
 Pau Pyrenees
-Port Augusta Airport
-Pukarua Airport
-Port of Poulsbo Marina Moorage Seaplane Base
 Prudhoe Bay Airport
 Carlos Ibanez del Campo International
-Puerto Rico Airport
 Puttaprathe
 Puerto Asis Airport
 Poum Sommet
-Pula Airport
-Puerto Cabezas Airport
-Placerville Airport
 Licenciado Gustavo Diaz Ordaz International
-Hale County
 Pope Vanoy Airport
-Pevek Airport
 Big and Little Port Walter
-Porto Santo Airport
-Pleiku Airport
 Port Ashton Airport
-Jeypore Airport
 Puerto Ayacucho Airport
 Polyarnyj Airport
-Perry Island Seaplane Base
 Paz de Ariporo Airport
-Pietermaritzburg Airport
 Penzance Airport
 Port Sudan Airport
 Piestany International
 Jackpot Hayden Field
 Centro de Lancamento de Alcantara
-San Carlos Apache
 Erie Ottawa International
-Kelleys Island Land Field
-Caledonia County
 Astrodomain Helipad
 Marina del Ray Airport
-Bella Coola Airport
-Jackass Aeropark
 Oman Ranch
-Put In Bay Airport
-Middle Bass Island Airport
 Indian Creek Usfs
 Abilene Airport
-North Bass Island Airport
-Mont Laurier Airport
-Culpeper Regional
 Levelland Airport
 Crane Island Airport
-Blue Ridge
-Dracena Airport
 Emerald Bay Airport
-Boufarik Airport
 Camp Fox
 Grognet Seaplane Base
 Astroworld Helipad
 Houston Metro Ho
 Isle Royale National Park
-Jubail Airport
 Kona Keahole
 Cobb County International McCollum Field
 Marriot Helipad Hou
-Mansfield Municipal
-Aeroclube de Rio Negrinho
 Post Oak Manor
-Pittsfield Municipal
 Keyes Point Airport
 Nimiuk Point Airport
 Nashua Street Heliport
 Sealing Point Airport
-Carroll County Regional Jack B Poage Field
-Stevensville Airport
-Boundary County
-Shingletown Airport
-Woodlake Airport
-Nevada County
 Atlanta Regional Falcon Field
-Window Rock Airport
-Lupin Airport
-Healdsburg Municipal
-San Marcos Regional
 Redondo Beach Airport
 Queretaro International
-Southbridge Municipal
-North Fork Valley
 Batten International
 Roadtown Seaplane Base
 Arar Airport
 Rafha Airport
-Rajkot Airport
-Ravenna Airport
 Sardar E Jangal
 Raduzhnyi Airport
-Greely Helipad
 Rabat Sale International
 Randy Field
-Big Bear City Airport
-Roseburg Regional
 Brooks Lodge Airport
 Fort Jefferson Airport
 Robore Airport
 Placido de Castro
-Ruby Airport
 Ellsworth AFB
-Richards Bay Airport
-Roche Harbor Airport
-Richmond Airport
 Rochefort Charente Maritime
-Reconquista Airport
-Rio Cuarto
-Rockhampton Downs Airport
-Red Dog Airport
 Redencao Airport
 Grand Forks AFB
-Richard Toll Airport
-Red Devil Airport
 Rodez Aveyron
 Guararapes Gilberto Freyre International
-Mifflin County
 Reese AFB
-Reggio Calabria Airport
 Rehoboth Aircrafters
 Reykjavik Metropolitan Area
 Almirante Zar
 Orenburg Airport
-Retalhuleu Airport
 Resistencia Airport
-Rost Airport
 Reus Airport
-Reyes Airport
 Raiatea Uturoa
-Rio Grande Airport
 Rio Gallegos Airport
-Santa Maria Airport
 Cap Av Selin Zeitun Lopez
-Rice Lake Airport
-Rio Grande Airport
 Rioja Airport
 Rifle Garfield County
 Rio de Janeiro Metropolitan Area
-Rijeka Airport
 Logrono Airport
-Reykjavik Airport
-Rockwood Municipal
-Rolla Downtown
-Richland Airport
-Arlit Airport
 Bornite Upper
-Roma Airport
 Richard B Russell Regional J H Towers Field
-Rimini Miramare
-Stafford Regional
-Ormoc Airport
-Rampart Airport
 Taichung Ching Chuan Kang
 Ramstein AB
-Rimatara Airport
-Ronneby Airport
-Warren County Memorial
 Randolph AFB
 Roanne Airport
-Rangely Airport
 Corn Island Airport
 Bornholm Ronne
 Rennes Saint Jacques
-Ranau Airport
 Roanoke Blacksburg Regional Woodrum Field
 Monrovia Roberts International
 Rogers Executive Carter Field
-Rockhampton Airport
-Roosevelt Municipal
 Rome Metropolitan Area
 Rondonopolis Airport
 Benjamin Taisacan Manglona International
-Rosario Airport
 Rotorua Airport
 Rostov Airport
-Roseau Municipal Rudy Billberg Field
 Izhak Ben Yaakov
 Swami Vivekananda
-Roundup Airport
 Lone Pine Death Valley
-Big Southern Butte
 Wheatland County at Harlowton
-William Robert Johnston Municipal
-Prosser Airport
-Lincolnton Lincoln County Regional
-Covington Municipal
-Pennridge
-Nixon Fork Mine Airport
 King Feisal AB
-Lowell Airport
-Sterling Airport
 Seneca AAF
 Lea County Zip Franklin Memorial
-Watts Woodland
-Harbor Springs Airport
-Springwater Barrie Airpark
 Lubbock Executive Airpark
-Wasco Kern County
-South Valley Regional
-Parowan Airport
-Kit Carson County
-Comanche County City
-Plaine Corail
-Rourkela Airport
 Roros Airport
-Warroad International Memorial
-Santa Rosa Airport
 Skulte Airport
-Rock Sound Airport
-Russian Mission Airport
-Rosario Seaplane Base
-Ruston Regional
 Raspberry Straits
 Roseires Airport
-Rotuma Airport
 Marguerite Bay Airport
 Rotterdam Airport
 Raton Municipal Crews Field
 Morrow Field
-Rottnest Island Airport
-Keperveyem Airport
 Ramenskoye Airport
 King Khalid International
 La Reunion Roland Garros
 Rutland Southern Vermont Regional
-Rubelsanto Airport
-Farafangana Airport
-Rovaniemi Airport
 Cerro Chapeu
 Rowan Bay Airport
 Rawlins Municipal Harvey Field
 Rodman Bay Airport
 Weld County Municipal
 Sheikh Zayed International
-Santa Cruz Airport
-Ramsar Airport
-Sawan Airport
-Halifax County
-Kalispell City
 Juancho E Yrausquin
-Sagwon Airport
 Sana a International
 Msgr Oscar A Romero and Galdamez International
-Salamo Airport
 Sao Paulo Metropolitan Area
 Ramon Villeda Morales International
-San Andros Airport
-Tardanu
 Sabiha Gokcen
-Sambu Airport
-Selbang Airport
 Saint Barthelemy Airport
 St Brieuc Airport
-Santa Ana del Yacuma
 South Bend International
-Salina Gunnison
-Tri City
-Springbok Airport
-William M Tuck
-Sibu Airport
 Sibiu Airport
-Beaufort MCAS
-Deadhorse Airport
-San Cristobal Airport
 Smith Cove Airport
 Arturo Merino Benitez International
-Scammon Bay Airport
 Saarbruecken
-Shevchenko
 Stefan Cel Mare
 Nas Salina Cruz
-San Cristobal Airport
-Onida Municipal
-Lubango Airport
 Santiago del Estero Airport
 Santa Rosa de Copan Airport
-Sendai Airport
-Sandakan Airport
 Sundsvall Timra
 Anda Airport
 De Las Americas International
-Santander Airport
-Saidu Sharif Airport
-Sedona Airport
 Sidney Richland Regional
 Solleftea Airport
 Sebha Airport
-Penn Valley
 Kimpo International Seoul Metropolitan Area
 Sungai Pakning Airport
-Freeman Municipal
 Selfield
 Selibaby Airport
 El Maou
@@ -3308,495 +1544,210 @@ San Fernando de Apure
 L Esperance
 Sondrestrom Air Base
 Sao Filipe Airport
-Sanford Seacoast Regional
 Surfers Paradise Airport
 Sanliurfa Airport
 Skelleftea Airport
-Safia Airport
-Santa Fe Airport
 Singaua Airport
-Surgut Airport
 Sonderborg Airport
-Simanggang Airport
 Springfield Beckley Municipal
 Sagarai Airport
-San Ignacio Airport
-Saint George
-Shay Gap Airport
 Stuttgart Municipal Carl Humphrey Field
 St George Regional
-Saginaw
-Songea Airport
-Skagway Airport
-Nakashibetsu Airport
-Shire
-Shungnak Airport
-Shishmaref Airport
-Shimojishima Airport
-Barapani
-Nanki Shirahama Airport
 G 407
-Smith Point Airport
-Sharurah Airport
-Shageluk Airport
 Xi an Xiguan
 Amilcar Cabral International
-Isla Grande
-Silgadi Doti Airport
 Sidi Ifni Airport
-Simbai Airport
 Singapore Changi International
-Smithton Airport
-Sishen Airport
 Siuna Airport
-Siskiyou County
 Norman Y Mineta San Jose International
-St John Airport
-San Jose Airport
 Sarajevo Airport
-St Johns Industrial Air Park
 Sao Jose Do Rio Preto Airport
-Sesheke Airport
 San Jose de Chiquitos
-San Javier Airport
-Zhengding
 Seinajoki Airport
 Sao Jorge
 Fairchild AFB
 Robert L Bradshaw International
-Suki Airport
-Samarkand Airport
-Geiteryggen
-Makedonia
 Sitkinak CGS
-Shaktoolik Airport
 Isle of Skye Airport
 Sokoto Airport
 Skopje Airport
 Skrydstrup Airport
-Skiros Airport
-Skwentna Airport
-Saransk Airport
 Begum Nusrat Bhutto
 Salta Airport
-Storm Lake Municipal
 Sliac International
-Sola Airport
-Solwezi Airport
-Stellar Airpark
-Salalah Airport
-Salina Regional
-Salem Leckrone
-Sleetmute Airport
-Sulphur Springs Municipal
-Silistra Polkovnik Lambrinovo
-Harriet Alexander Field
 George F Charles
-Shimla Airport
 Plan de Guadalupe International
-Salt Cay Airport
-Santa Maria Airport
-Franco Bianco
-Santa Maria Airport
-Samos Airport
-St Michael Airport
-Estate Airstrip
-Simon Bolivar
 Stone Mountain Airport
-Sheep Mountain Airport
 Santa Maria Public Capt G Allan Hancock Field
-Simenti Airport
-Stoelmanseiland Airport
 John Wayne Airport Orange County
-Snake Bay Airport
 Preguica
 Cap Av Juan Cochamanidis Saucedo
-Greenville Sinoe Airport
-Winston Field
-Shawnee Regional
-San Ignacio de Moxos Airport
-Shannon Airport
 San Quintin Southeast
 Saint Nazaire Montoir
-Las Cruces Airport
 Abel Santamaria International
 Wonkin
-Thandwe Airport
 Sidney Municipal Lloyd W Carr Field
 Adi Soemarmo International
-Sofia Airport
 Haukasen
 S Molle
 Sorkjosen Airport
-Semonkong Airport
-Solomon State Field
 San Tome Airport
-Espiritu
 Sorong Airport
-Southampton Airport
-Seldovia Airport
-Spartanburg Downtown Memorial
-Saidpur Airport
-Sepulot Airport
 Black Hills Clyde Ice Field
-Sopu Airport
 Chitose AB
 Spangdahlem AB
 Francisco C Ada Saipan International
-Menongue Airport
 Catalina Air Sea Terminal Heliport
-San Pedro Airport
 Sheppard AFB Wichita Falls Municipal
-Split Airport
-San Pedro Airport
-Springdale Municipal
-Santa Ynez Airport
 Whiteside County Jos H Bittorf Field
-San Carlos Airport
-Emalamo
-Storuman Airport
 Siauliai International
-Soroako Airport
-Sequim Valley
-Santa Rosa Airport
-Santa Rosa Airport
-Searcy Municipal
 Juana Azurduy de Padilla
-Hamilton AFB
 Ahmad Yani
-Sarh Airport
 Samarinda Airport
 Capitan German Quiroga Guardia
-Strahan Airport
-Santana Ramos Airport
-Stord Airport
 Stony River Airport
 Mid Carolina Regional
 Sirte International
 Deputado Luis Eduardo Magalhaes International
-Christiansted Harbor Seaplane Base
 Shaw AFB
-Malabo Airport
 McKinnon St Simons Island
-Santa Rosalia Airport
 Sault Ste Marie Metropolitan Area
 Seoul AB
-Siassi Airport
-Santa Teresita Airport
-Stuart Island Airpark
 Samsun Airport
-Mbanza Congo Airport
-Stauning Airport
-Santa Barbara Airport
 Mayor Guerrero Vivas
-George M Bryan
-St George Island Airport
-St Louis Lambert International
 Stockholm Metropolitan Area
-St Marys Municipal
-Stuttgart Airport
 Charles M Schulz Sonoma County
 Cyril E King
-Santa Terezinha Airport
 Schloredt
-Door County Cherryland
-Lamezia Terme Airport
-Surigao Airport
 Babusheri
-Satu Mare Airport
-Sui Airport
-Sumter Airport
-Sunriver Airport
-Sumbawanga Airport
 Travis AFB
-Richard I Bong
 Sioux Gateway Col Bud Day Field
-Savoonga Airport
-Sambava Airport
 E T Joshua
-Savonlinna Airport
 Hunter AAF
-Kuito Airport
 Seville Airport
-Stevens Village Airport
-Savusavu Airport
 Juan Vicente Gomez International
-Waisha
-Shaw River Airport
-Stawell Airport
-Seward Airport
 Segrate
 Spanish Wells Airport
-Swansea Airport
-Suwon Airport
-Avenger Field
 Strasbourg Entzheim
-Schoenefeld
-Senanga Airport
-Sligo Airport
-Nunam Iqua
-Soldotna Airport
 Srinagar Airport
-Soddu Airport
 Eareckson AS
 Seal Bay Airport
 Sydney International
-Bomar Field Shelbyville Municipal
-Stanton Airport
-Shonai Airport
 Saint Yan Airport
-Stornoway Airport
-Soyo Airport
-Santa Cruz Airport
 Carsamba
-Salzburg Airport
-Skukuza Airport
 Whiteman AFB
 Szombathely Airport
-Santa Paula Airport
 San Cristobal de Las Casas
 Bao an International
-Goleniow
 A N R Robinson International
 Daniel Z Romualdez
 Las Animas County
 Taegu International
-Tagbilaran Airport
 Tanna Island Airport
 Taiz International
-Takamatsu Airport
-Ralph M Calhoun Memorial
 Taranto Grottaglie
 Tashkent Yuzhny
 Poprad Tatry International
-Tau Airport
 Taliabu Airport
 Tuy Hoa Airport
 Tabiteuea Airport
 The Bight
 Tableland Airport
 Waynesville St Robert Regional Forney Field
-Tabora Airport
 Cap FAP Pedro Canga Rodriguez
-Statesboro Bulloch County
 Tbilisi Airport
-Tabatinga Airport
 Fua Amotu International
-Tennant Creek Airport
-Treasure Cay Airport
 Delta Dunarii
-Tocoa Airport
-Tchibanga Airport
 Tenerife Metropolitan Area
 McChord Field
-Tehuacan Airport
 Coronel Carlos Ciriani Santa Rosa International
-Takotna Airport
 San Luis de Palenque
 Tte Av Jorge Henrich Arauz International
-Tradewind
-Metcalf Field
-Tela Airport
-Teterboro Airport
-Thisted Airport
-Tetlin Airport
-Tatitlek Airport
 Teptep Airport
-Lajes Airport
 Tete Chingodzi
-Te Anau Airport
-Tezpur Airport
 Tefe Airport
-Tufi Airport
 Tarbes Lourdes Pyrenees
 Tenerife Sur
-Podgorica Airport
-Sharpe Field
 Kuala Trengganu Airport
-Tongoa Airport
-Tingo Maria Airport
 Targu Mures Airport
 Touggourt Sidi Mahdi
-Tanga Airport
 Toncontin International
 Tullahoma Regional Airport William Northern Field
 Senador Petronio Portella
 Biloela Thangool
 Trollhattan Vanersborg
 Hot Springs County Thermopolis Municipal
-York Airport
-Tahoua Airport
 Turiacu Airport
-Tippi Airport
 Taif International
-Tikehau Airport
 General Abelardo L Rodriguez International
 Tinker AFB
 Mozes Kilangin
-Tindouf Airport
-Tirupati Airport
-Timaru Airport
-Tivat Airport
-Tidjikja Airport
-Tari Airport
 Cap Av Oriel Lea Plaza International
-Trujillo Airport
-Murted
-Talkeetna Airport
-Tiko Airport
-Takoradi Airport
 Tenakee Airport
-Takhli Airport
 Tokeen Airport
 Taku Seaplane Base
 Tikal Airport
-Kigoma Airport
 Thakurgaon Stol Port
-Tokushima Airport
-Tak Airport
-Turku Airport
-Teller Airport
 Tulear Airport
-Telida Airport
 Tallahassee International
 Zenata Messali El Hadj
 Hyeres Le Palyvestre
-Mefford Field
 Toulouse Blagnac
-Tuluksak Airport
 Miami Executive
-Timbedra Airport
 Tumlingtar Airport
-Tamale Airport
 Tampere Pirkkala
 Aguemar
-Trombetas Airport
-Tamworth Airport
-Upper Cumberland Regional
-Abernathy Field
-Franklin Wilkins
-Dyersburg Regional
-Winchester Municipal
 Tin City LRRS
-Tanegashima Airport
 Tanger Ibn Batouta International
 Kidjang
-Tununak Airport
-Tainan Airport
-Twentynine Palms Airport
 Newton Municipal Earl Johnson Field
-Stung Treng Airport
 Tobruk Airport
-Togiak Airport
 Torrejon AFB
-Tombouctou Airport
-Torrington Municipal
-Langnes
-Touho Airport
 Tortola West End Seaplane Base
-Toyama Airport
 Allen Air Park
-Tonopah Airport
-Tapini Airport
 Tarapoto Airport
-Tepic Airport
-Tom Price Airport
 Trapani Birgi
 Turbo Airport
 Torreon International
 Vaernes
 Tiree Island Airport
-Torp
-Tauranga Airport
-Trona Airport
-Taree Airport
 Trieste Airport
 Capitan Carlos Martinez de Pinillos
-Thiruvananthapuram International
 Tiruchirappalli International
-Tsumeb Airport
 Nursultan Nazarbayev International
-Tanacross Airport
-Tshikapa Airport
-Tsushima Airport
-Taos Regional
-Tehachapi Municipal
-East 34th Street Heliport
-Townsville Airport
 Tortoli Arbatax
 Argolla
 Tartagal Airport
 Thumrait Airport
-Tottori Airport
 Turtle Island Airport
-Tsaratanana Airport
 Fongnian
 Tetouan Sania Ramel
 Tulcan Airport
 Tubuai Is Fr Polynesia
 Tucuman Airport
-Tambacounda Airport
 Tours Val de Loire
-Tuguegarao Airport
 Arnold AFB
 Turaif Airport
-Tumut Airport
-Taupo Airport
 Tucurui Airport
-Tauta Airport
 Prince Sultan Bin Abdulaziz
-Morafenobe Airport
-Lake Tahoe Airport
-Twin Hills Airport
-Toowoomba Airport
-Jefferson County International
-Taylor Airport
 Two Harbors Airport
-Tawau Airport
-Denver City Airport
-Port Isabel Cameron County
-Bruce Field
 Cleburne Regional
-Horseshoe Bay Resort
-Post Garza County Municipal
-Taichung Airport
 Tunxi Airport
-Tabou Airport
-Tibooburra Airport
-Tyonek Airport
 Capitan FAP Victor Montes International
 Tokyo Metropolitan Area
-Taylor Airport
 Belize Municipal
 Maya Beach Airport
 Tuzla Airport
-Congo Town Airport
 Trabzon Airport
 Incirlik AB
-Ua Huka Airport
-Narsarsuaq Airport
 Andersen AFB
-San Juan Airport
-Samburu Airport
-Uaxactun Airport
 Mario de Almeida Franco
-Chatham Municipal
-Ubon Ratchathani Airport
-Columbus Lowndes County
 Everett Stewart Regional
-Bermuda Dunes Airport
 Uberlandia Airport
 Udaipur Airport
-Quelimane Airport
-Kumejima Airport
-Waukesha County
 Samungli International
 Ufa Airport
-Ugashik Airport
-Ugashik Bay
-Urgench Airport
 Uganik Airport
-Ugashik Airport
 Uherske Hradiste Airport
 Upper Heyford Airport
 El Carano
@@ -3804,163 +1755,66 @@ Utila Island Hond
 Old Mariscal Sucre International
 Quimper Pluguffan
 San Julian Airport
-Los Cerrillos
-Ulithi Airport
-New Ulm Municipal
 Heriberto Gil Martinez
-Ulysses Airport
-Ulyanovsk Vostochny
-North Shore
 Uummannaq Airport
 Umea Airport
-Summit Airport
 Woomera Airport
-Umiat Airport
-Umuarama Airport
-Kunduz
-Kiunga Airport
 Union Island Airport
-Unalakleet Airport
 Umnak Airport
-Unst Airport
 Uruapan Airport
-The Queens
-Uralsk Airport
-Urubupunga Airport
 Rouen Vallee de Seine
-Surat Thani Airport
-Guriat
 Usi Belli Coal Mine
-Ulsan Airport
 Heber City Municipal Russ McDonald Field
-Muttaburra Airport
-Udon Thani Airport
-Utirik Island
 Upington International
 U Tapao Pattaya International
 Mthatha Airport
-Queenstown Airport
 North Kuparuk
-Khomutovo
-Manumu Airport
 Ouvea Ouloup
 New Valley
 Lik Camp Airport
 Fassberg Airport
-Hawley Municipal
-Chowchilla Airport
-Faulkton Municipal
-Stanford Field
-Dutch John Airport
 Antonov 2 International
 Calder Bay Airport
 Central Kentucky Regional
-Petaluma Municipal
 Chariot Airport
 47 Mile Mine Airport
-Big Sandy Regional
-Stennis International
 Gilze Rijen Airport
-Monument Valley Airport
-Cimarron Municipal
-Cheboygan County
-Putnam County
-Hot Springs Airport
-Circle Town County
-Garrison Municipal
-Nyala Airport
-Curuzu Cuatia Airport
-Chesapeake Regional
-Mountain Empire
-Vaasa Airport
 Moody AFB
 Valence Chabeuil
-Vanimo Airport
-Chevak Airport
-Van Airport
-Suavanao Airport
-Varna Airport
 Sivas Airport
 Vava u International
 Vandenberg AFB
 Brescia Montichiari
-Visby Airport
 View Cove Airport
 Marco Polo International
-Carora Airport
 Ovda Airport
 Vitoria Da Conquista Airport
-Vidalia Regional
 Viedma Airport
 Valle de la Pascua Airport
-Villa Dolores Airport
 Vadso Airport
-Venetie Airport
-Roy Otten Memorial Airfield
-Vestmannaeyjar Airport
-Vijayawada Airport
-Vigo Airport
-Vilhelmina Airport
 Vichy Charmeil
-Vicenza Airport
 Vidin Airport
 Juan Pablo Perez Alfonzo
-Rolla National
-Virgin Gorda Airport
 Kavik River Airport
 Dakhla International
 Vitoria Airport
-Vicksburg Municipal
-Valencia Airport
 Port Vila Airport
-Valladolid Airport
-Vallenar Airport
 Dr Antonio Nicolas Briceno
-Mercedes
 Lal Bahadur Shastri Varanasi International
-Van Nuys Airport
-Gumrak
 Volos Airport
-Cartersville Airport
 Ondjiva Airport
 Eglin AFB Destin Fort Walton Beach
 Porter County Regional
-Antonio Rivera Rodriguez
-Vero Beach Regional
-Virac Airport
-Varkaus Airport
 C P A Carlos Rovirosa International
-Viseu Airport
-Hartness State
 Vasteras Airport
-Stanly County
-Pearson Field
 Alfonso Lopez Pumarejo
 Gomez Nino Apiay AB
 Vastervik Airport
-Knevichi
-Headland Municipal
-Myrtle Creek Municipal
-Sumner County Regional
-Hanford Municipal
-Lake Chelan
-Custer County
-Odessa Schlemeyer Field
-California City Municipal
-McNeil
-Nary National Shefland Field
-Weed Airport
-Avi Suquilla
 Bernard Usfs
-Kingdon Airpark
-Independence Airport
-Colonel James Jabara
-Jimmy Carter Regional
-Deer Lodge City County
+South Texas Regional at Hondo
 Granite Creek Mine Airport
 Sao Pedro International
 Smaland
-Vryheid Airport
 Marvel Creek Mine Airport
 Mitrofania Airport
 Mush Bay Airport
@@ -3968,9 +1822,6 @@ Campbell Lagoon Airport
 Frazer Lake Airport
 Afognak Straits Airport
 Moffet Bay Airport
-Mineola Wisener Field
-Brundidge Municipal
-Payette Municipal
 Los Alamitos AAF
 Jensens Strip Airport
 Wildman Creek Airport
@@ -3982,478 +1833,164 @@ Cinder Mountain Airport
 Hagemeister Island Airport
 Cape Peirce Airport
 Cape Greig Airport
-Kasba Lake Airport
 Katmai Lodge Airport
 South St Paul Municipal Richard E Fleming Field
-Mansfield Airport
-Bayview Farms
-Isaacson
-Methow Valley State
 Stehekin Seaplane Landing
 Chelan Seaplane Landing
-Wales Airport
-Wabag Airport
-Andriamena Airport
 Whanganui
 Washington DC Metropolitan Area
-Waterford Airport
 Wave Hill Old
 Wahai Airport
-Stebbins Airport
 Commerce Montebello Heliport
-Wapenamanda Airport
 Woburn Airport
-Beaver Airport
-Roben Hood
 Bennettsville Airport
-Downtown Airport
-Gamboa
 Whalers Cove Lodge Airport
-Chandalar Lake
-Wide Bay Airport
-Enid Woodring Regional
-Waldronaire
 Dashuipo Airport
-Weipa Airport
-Welkom Airport
 Ketchikan Waterfront Seaplane Base
 Wagga Wagga Airport
-Walgett Airport
 Bahia Tortugas Airport
 Isle Baltra Off Line Point
-Winchester Regional
-Mau Hau
-Hyder Seaplane Base
-Whakatane Airport
 Franz Josef Airport
 Vail Avon
-Wharton Regional
-Black River Falls Area
-Wilbur Airport
-Wick Airport
-Winton Airport
-Woja Airport
 General William J Fox Airfield
-Wanaka Airport
-Wakkanai Airport
 Aleknagik New
-Wakunai Airport
 Walker s
 Penns Landing Seaplane Base
 Labouchere Bay Airport
-Walaha Airport
-Selawik Airport
 Waltham Hospital Heliport
 Wallis Hihifo
-Willows Glenn County
-Warrnambool Airport
-Baxter County
-Meyers Chuck Seaplane Base
-White Mountain Airport
-Avaratra
-Napakiak Airport
-Wunnumin Lake Airport
-Naga Airport
-Windorah Airport
-Nawabshah
-Longwan
 Wood River Airport
-Willow Airport
-Wipim Airport
 Guardiamarina Zanartu
-Ovid Airport
-Mandan Municipal
-Ravalli County
-Tulelake Municipal
-Dinsmore Airport
 Rigby Airport
-Hesperia Airport
-Butte Valley
-Connell City
 Peard Bay Airport
-Townsend Airport
-Bluff Airport
-Chennault International
-Taylor County
-Rosamond Skypark
-Oceano County
-Custer State Park
-Tibbetts
 Poplar Municipal
-Bridger Municipal
-Portales Municipal
-David River Airport
 Kiavak Airport
 Port Wakefield Airport
-Chignik Lake Airport
 Robins AFB
-Whangarei Airport
-Wrangell Airport
-McGuire Field
-Strachowice
 Steamboat Bay Airport
-Washington County
-Brookhaven
-Wasilla Airport
-San Juan Airport
-Wiseman Airport
 South Naknek 2
-Waspam Airport
 Westsound Airport
-Whitsunday Airstrip
-Westport Airport
-World Trade Center Heliport
-West End Airport
-Noatak Airport
-Tuntutuliak Airport
-Whiteriver Airport
-Tsiroanomandidy Airport
-Whittier Airport
-Wau Airport
-Duchesne Municipal
-Avco
-Wau Airport
 Mcs Pad Heliport
 Washington Virginia
-Walvis Bay Airport
-Manakara Airport
-Waterville Robert Lafleur
-Wasilla Airport
 Whale Pass Airport
-Newtok Airport
-Whyalla Airport
-Yes Bay Lodge Seaplane Base
-Yengema Airport
-Wyndham Airport
 Nassau Seaplane Base
-Alamos Airport
 Chapeco Airport
-Bearskin Lake Airport
 Brockville Regional Tackaberry
-Christmas Island Airport
-Cluff Lake Airport
 Chalons Vatry
-Lemwerder Airport
-Manihi Airport
 Marmande Virazeil
 Quang Ngai Airport
 Xining Airport
-Palmerola Air Base
 Quepos Airport
 Richmond AFB
 Reston Airport
 South Caicos International
 St Mary s County Regional
-Seletar Airport
 Xuzhou Airport
 Granite Point Ndb
 Yantarni Bay Airport
 Emmen Airport
-Copalis State
-Jerome County
-Aztec Municipal
-Dexter Regional
-Port Orchard Airport
 McCarley Field
 Riyadh Military
-William P Gwinn
-Kimball Municipal Robert E Arraj Field
 Prince Sultan AB
-Iwakuni MCAS
-Oliktok LRRS
 Nushagak Bay Airport
-Perry County
 Teton Peaks
 Smiley Johnson Municipal Bass Field
-Lakewood Airport
 Arthur D Little Heliport
 Al Udeid AB
-Ells Field Willits Municipal
-General Dick Stout Field
-Lampson Field
-Hobby Field
-Polson Airport
-Ashland Municipal Sumner Parker Field
-Decatur Shores
-Mena Intermountain Municipal
-Rohnerville
-Yandina Airport
-Anahim Lake Airport
-Cat Lake Airport
-Asbestos
 La Grande 4 Airport
-Yakutat Airport
-Sault Ste Marie Airport
 Yaounde Ville
-Attawapiskat Airport
 Kattiniq Donaldson
 Miners Bay Airport
 St Anthony Airport
-Banff Airport
-Kugaaruk Airport
-Baie Comeau Airport
-Uranium City Airport
 Baie Johan Beetz Airport
-Baker Lake Airport
-Campbell River Airport
-Bronson Creek Airport
-Opapimiskan Lake Airport
-Brochet Airport
-Berens River Airport
-Blanc Sablon Airport
-Cambridge Bay Airport
-Nanaimo Airport
 Cortes Bay Airport
 Castlegar West Kootenay Regional
-Miramichi Airport
 Cape Saint James Airport
 Colville Lake Tommy Kochon
-Charlo Airport
-Cochrane Airport
 Cross Lake Airport
-Chesterfield Inlet Airport
-Clyde River Airport
-Dawson City Airport
-Deer Lake Airport
-Dease Lake Airport
-Nain Airport
-Dawson Creek Airport
 Desolation Sound Marine Park
 Riviere Du Loup Airport
 Edmonton Metropolitan Area
-Yecheon Airport
 Edmonton Namao Heliport
-Arviat Airport
 Yeovilton Airport
-Fort Severn Airport
-Eureka Airport
 Inuvik Airport
-Iqaluit Airport
 Fredericton International
-Flin Flon Airport
-Fort Resolution Airport
-Fort Simpson Airport
-Gagnon Airport
 Gorge Harbor Airport
 Ganges Harbor Airport
 Fort Good Hope Ice Strip
-Kingston Airport
 La Grande Riviere
 Greenway Sound Airport
 Michel Pouliot
 Iles de la Madeleine Airport
-Igloolik Airport
-Havre St Pierre Airport
-Kuujjuarapik Airport
-Gillam Airport
-Grise Fiord Airport
-Port Hope Simpson Airport
 Hearst Municipal
 John C Munro Hamilton International
 Harrington Harbour Airport
 Sechelt Airport
-Haines Junction Airport
-St Hubert
 Hay River Merlyn Carter
 Halifax Stanfield International
 Big Bay Marina Airport
-Pond Inlet Airport
-Island Lake Airport
-Yiwu Airport
 Johnny Mountain Airport
-Stephenville Airport
-Kamloops Airport
-Kangirsuk Airport
-Key Lake Airport
-Schefferville Airport
-Yakutsk Airport
 Ft George
-Kirkland Lake Airport
 Lake Harbour
-Chapleau Airport
-Lansdowne House Airport
-Lloydminster Airport
-Mingan Airport
-La Tuque Airport
-Leaf Rapids Airport
-Alert Airport
 Kelowna Airport
-Mayo Airport
-Merritt Airport
-Matane Airport
 Mary s Harbour Airport
-Fort McMurray Airport
-Moosonee Airport
 Port McNeill Airport
 Montreal Metropolitan Area
 Yurimaguas Airport
-Manic 5
 Montreal International Mirabel
-Natashquan Airport
 Gatineau Ottawa Executive
-Norway House Airport
 Hudson s Hope Airport
 Nootka Sound Airport
-Points North Landing Airport
-Matagami Airport
-Old Crow Airport
 Cold Lake Group Captain R W McNair
 Ogoki Airport
-High Level Airport
-Yola Airport
-Oshawa Executive
-Rainbow Lake Airport
 Ottawa Macdonald Cartier International
-Rea Point Airport
-Peace River Airport
-Pickle Lake Airport
-Port Menier Airport
-Peawanuck Airport
-Peterborough Airport
-Port Hawkesbury Airport
-Powell River Airport
-Fort Chipewyan Airport
-Muskoka Airport
-The Pas Airport
-Windsor Airport
-Watson Lake Airport
-Yarmouth Airport
-Kenora Airport
 Greater Moncton Romeo Leblanc International
-Comox Airport
-Thunder Bay Airport
-Grande Prairie Airport
-North Battleford Airport
 Sydney Airport
-Quesnel Airport
-Resolute Bay Airport
 St Honore
-Dean River Airport
-Roberval Airport
-Red Lake Airport
 Trois Rivieres Airport
-Rankin Inlet Airport
-Sudbury Airport
-Sherbrooke Airport
-Stony Rapids Airport
-Saint John Airport
 St Leonard Cyr
-Fort Smith Airport
-Salmon Arm Airport
-Marathon Airport
-Nanisivik Airport
 St Theresa Point Airport
-Summerside Airport
-Saglek Airport
-Pembroke Airport
-Cape Dorset Airport
 Sullivan Bay Water Aerodrome
-Thompson Airport
-Terrace Bay Airport
-Big Trout Lake Airport
 Mont Tremblant International
 Riviere Au Tonnerre
 Toronto Metropolitan Area
 Tofino Seaplane Base
-Trenton Airport
 Victor M Power
-Tuktoyaktuk Airport
 Yuma MCAS Yuma International
 Naujaat
-Hall Beach Airport
-Rouyn Noranda Airport
-Bonaventure Airport
-Cape Dyer Airport
 Val d Or Airport
 Fort Chimo Airport
-Norman Wells Airport
-Buffalo Narrows Airport
 Kangiqsujuaq Wakeham Bay
 Victoria Inner Harbour
 Deline Airport
-Wabush Airport
-Williams Lake Airport
 Chute Des Passes Airport
-White River Airport
-Wrigley Airport
 John G Diefenbaker International
-Medicine Hat Airport
-Fort St John Airport
-Rimouski Airport
-Sioux Lookout Airport
-Pangnirtung Airport
-Beaver Creek Airport
-Prince George Airport
 Terrace Airport
-London Airport
-Abbotsford Airport
-Wawa Airport
-North Bay Airport
-Smithers Airport
-Fort Nelson Airport
-Penticton Airport
-Charlottetown Airport
-Taloyoak Airport
-Lynn Lake Airport
-Swift Current Airport
-Churchill Airport
-Goose Bay Airport
 St John s International
-Kapuskasing Airport
-Mont Joli Airport
 Lester B Pearson International
-Yellowknife Airport
-Slave Lake Airport
-Sandspit Airport
-Coral Harbour Airport
-Port Hardy Airport
 Sept Iles Airport
 Alice Arm Airport
 Zadar Airport
-Zagreb Airport
-Las Marias
 Zaragoza AB
-Bathurst Airport
 Biloela Thangool
 Bromont Roland Desourdy
-Bowen Airport
 John the Diver
 General Leobardo C Ruiz International
-Faro Airport
 Fort McPherson Airport
 Fort Norman Airport
-Grand Forks Airport
-Ngoma Airport
 Gethsemani Airport
-Zhanjiang Airport
-Ziguinchor Airport
-Kasaba Bay Airport
 Playa de Oro International
 La Tabatiere Airport
-Sena Madureira Airport
-Masset Airport
-Nyac Airport
-Zinder Airport
-Newman Airport
 Ingolstadt Airport
 Ocean Falls Airport
 Canal Bajo Carlos Hott Siebert
-Sachigo Lake Airport
-Queenstown Airport
 Zurich Airport
 San Salvador International
 Sligo Bus Station
-Sassandra Airport
-Stewart Airport
 Prince Rupert Seal Cove Heliport
 Tahsis Airport
-Churchill Falls Airport
-Miandrivazo Airport
 Savannakhet International
-Wollaston Lake Airport
 Rota Airport
-Double Eagle II
-Ward Field
 San Isidro International
 Sculthorpe Airport
 Illinois Creek Airport
@@ -4466,183 +2003,63 @@ Saltery Cove Airport
 Clover Bay Airport
 El Capitan Peak
 Salmon Bay Lake Airport
-Cloverdale Municipal
-Paradise Skypark
-Vista Field
-Blake Field
-Waterville Airport
-Mzuzu Airport
-Fernandina Beach Municipal
 Marcos A Gelabert International
 Ad Dabbah Airport
-Aua Island Airport
-Abakan Airport
 Badanah
-Beluga Airport
 McCord Seaplane Base
-Marinduque Airport
 Nellie Juan Airport
 Bacolod Airport
-Sanandaj Airport
 Swindon Airport
-Tinak Airport
-Pulau Tioman Airport
-Desierto de Atacama
 Peter Pan Seafoods
-Nanchang Xiangtang
-Bagabag Airport
 Cornelio Procopio Airport
 K I Sawyer AFB
 W H Bramble
-Slaton Municipal
 Nevsehir Airport
-Picayune Municipal
 Haikou Dayingshan
-Jianqiao
 Amendola Airport
 Hellinikon
 South Alabama Regional at Bill Benton Field
-Frankfort Dow Memorial Field
 Potsdam Municipal Damon Field
-Ada Regional
-Naukati Bay Seaplane Base
-Marble Canyon Airport
-Middlebury State
-Zhezkazgan Airport
-Aberdeen Municipal
-Koroba Airport
-Leon Airport
-Loeriesfontein Airport
-Mae Sot Airport
 Oslo Metropolitan Area
-Lima Airport
-Robert Mueller Municipal
-Robertson Field
-Sky Acres
 Swidwin Airport
-Driggs Reed Memorial
 Masterton Airport
-Kirk Field
-Sheepy Hollow Ranch
 Engels AFB
 Gregory Municipal Flynn Field
 Demopolis Regional
 Dubai Al Maktoum International
-Chatham Kent
-El Palomar Airport
-Sandusky County Regional
-Barcelos Airport
 Bastion Airfield
-Freeway
-Navoi Airport
-Scherger
-Philadelphia Municipal
-Wadena Municipal
-Bluffton Airport
 Sialkot International
-Independence Creek Airport
-Rajiv Gandhi International
 Queretaro Intercontinental
 Lebel sur Quevillon Airport
-Turners Falls
-Saertu
-Bayankhongor Airport
 Albert Bray
-Khanty Mansiysk Airport
-Zanjan Airport
-Mamitupo Airport
-Greenwood Airport
 H Asan
 Kelly Creek Airstrip
 Bear Fish Camp Airport
 Tubarao Airport
 Lianyungang Baitabu
-Thablotin Airport
-Simsbury Airport
-Logan County
-H L Sonny Callahan
-Skaneateles Aero Drome
-Red Wing Regional
-Griswold
-Islesboro Airport
-Cherry Ridge
-Gold King Creek
-Ekati Airport
 Squaw Lake Airport
 Gatlinburg Pigeon Forge
 Michael J Smith Field
-Mattituck Airport
-Colomac Airport
-Tabubil Airport
-Anderson Field
-Chemehuevi Valley Airport
 James T Field Memorial
-Carlisle Airport
-Summit
-Kunaye
-Monroe County Aeroplex
-Hanover County Municipal
-Paraparaumu Airport
 Al Bateen Executive
-Medina Municipal
-Dr Joaquin Balaguer International
-Airglades
-Tambor Airport
 Troy Municipal at N Kenneth Campbell Field
-Natchitoches Regional
 Clinton Sampson County
-Eagle Creek Airpark
-Belfast Municipal
-Lowcountry Regional
-Northampton Airport
-Simberi
 Telegraph Harbour Airport
-Collingwood Airport
-Pella Municipal
-Hampton Airfield
-Winters Municipal
-Thebephatshwa
 Memmingen Airport
-Oxford County Regional
-Ganja Airport
-Mid Way Regional
 Nordholz Airport
-Dwyer Airport
-Hammond Northshore Regional
-Shindand Airport
-Springerville Municipal
 Hindon Airport
-L O Simenstad Municipal
 Puerto Bolivar
-Jean Airport
-Akun Airport
-Ocean City Municipal
-Hornell Municipal
-Penn Yan Airport
-Searchlight Airport
 Broken Bow Municipal Keith Glaze Field
-Abbaye
 Matacan
-Berkeley County
-Hatay Airport
 Qugruc Airport
 Gold King 2 Airport
 Thomson McDuffie County
-Summerville Airport
-Hunter Creek
-Sussex Airport
 Komo Old
 St Stephen Airport
 Deerfield Valley Regional
-Hallock Municipal
-Monbetsu Airport
-Saga Airport
 Liwa Airbase
 Xinqiao
 Alexey Leonov
-Turkmenbashi Airport
-Sion Airport
-Tracy Municipal
 Bedwell Harbour Water Aerodrome
 Farewell Harbour
 Bliss Landing Water Aerodrome
@@ -4663,30 +2080,17 @@ Rendezvous Islands Water Aerodrome
 Shawl Bay Water Aerodrome
 Shoal Bay Water Aerodrome
 Sointula Water Aerodrome
-Sonora Resort
 Steep Island Lodge
-Zips Airport
 Mont de Marsan Airport
-Cascais Airport
 Warren Sugarbush
-Flying W
 Doro Airport
-Bethel Regional
 Ephraim Gibralter
 Tolstoi Bay Airport
-Mardin Airport
 Cole Dyke
 Quincy Airport
 Belen Municipal
-Lusanga Airport
-Itaituba Airport
-Balaton
-Hua Hin Airport
-Cranfield Airport
 Pittsburgh Northeast
-Candlelight Farms
 Seosan AB
-Oxford Airport
 Naypyitaw International
 Blackfish Lodge
 Blind Channel Water Aerodrome
@@ -4695,132 +2099,49 @@ Minstrel Island Water Aerodrome
 Port Harvey Water Aerodrome
 Shaw Islands Water Aerodrome
 Simoom Sound Water Aerodrome
-Danielson Airport
-H4
-Gainesville Municipal
-Kickapoo Downtown
-Gambella Airport
-York Municipal
 Icicle Seafoods
 Um Almelh Airport
 Delware Airpark
 Tamarindo de Santa Cruz
-Point Thomson Airstrip
 Walker County Bevill Field
-Paloich Airport
-New Garden
 Narimanova
 Ouarzazate International
 Serafettin Elci
-Gahcho Kue
-Canandaigua Airport
-Goodspeed
-Gettysburg Regional
-Dowagiac Municipal
-Perkiomen Valley
 Campia Turzii Airport
-Wajir Airport
-Heart of Georgia Regional
-Dewar Lakes Airport
 Jungwon AB
-Three Forks Airport
 Amari Airport
-Hereford Municipal
-Lafayette Municipal
 Smith Bay Airport
-Smith Mountain Lake
 Dune Lake Airport
-Del Mar Farms
-Costa Esmeralda
-El Coyote Ranch
-Costa Esmeralda
-Ledgedale Airpark
-Duqm International
 Austin Executive Airpark
 Doris Lake Airport
 Graf Ingratievo Airport
-Castroville Municipal
-Maryland
 Reno Stead
 Jijiga Garad Wilwal
-Finger Lakes Regional
-Tartu Airport
 Hope Bay Airport
-Moranbah Airport
 Charlotte Monroe Executive
 Van Curlers Sandbar
-Bridgewater Air Park
-Holmes County
 Nakochna Airport
-Ticonderoga Municipal
-Black Rock City
 Jericho Mine
-Old Bridge
-Macon County
-Gorham Airport
-Dean Memorial
 Vina del Mar Airport
 Lodz Lublinek
-Meadowbank
-Stonington Municipal
-Scottsboro Municipal Word Field
 Bentonville Municipal Louise M Thaden Field
-Bolton Field
 Delaware Municipal Jim Moore Field
-Robert Sibley
-Indy South Greenwood
-Panola County
-Effingham County Memorial
-Houston Executive
 Grants Milan Municipal
-Dungu
-Doylestown Airport
-Wildcat Canyon
 Raleigh Exec Jetport at Sanford Lee County
-Columbus County Municipal
 McKinney National
 Korat AAF
 Ali Al Salem AB
-Brawley Municipal
-Jalalabad Airport
-Bullfrog Basin
-Port of South Louisiana Executive
 Tri County Regional
-Mould Bay Airport
-A P Hill AAF
 Salerno Airport
-Siler City Municipal
-Monte Vista Municipal
 Sweihan Airbase
 Baikonur Krayniy
 Richmond Executive Chesterfield County
-Cleveland Regional Jetport
-Nemacolin
-Middleton Municipal Morey Field
 King Abdullah II Airbase
-Ashland County
-Blaise Diagne International
-Greene County Regional
-Mayfield Graves County
-Dimmit County
-Ramona Airport
-Thomaston Upson County
-Culberson County
-Terrell Municipal
-Greenwood Lake
 Goose Lake Airport
 Anoka County Blaine
-Estherville Municipal
 Cam Ranh International
 Termas de Rio Hondo
-Lublin Airport
 Seaice15
 Penns Landing Heliport
-Paxson Airport
-Paxson Airport
-Napaimute Pioneer Airfield
-Stratford Municipal
-Hopedale Industrial Park
-Fogo Airport
 Rajali Arakkonam
 99999 Unknown Point in Alaska

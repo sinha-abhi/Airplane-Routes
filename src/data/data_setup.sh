@@ -50,12 +50,16 @@ echo "Done"
 echo "Cleaning up airport coordinates file..."
 if [ ! -s airport_coords.txt ]; then
 	> airport_coords.txt 
-	cat AIRPORT_GPS_COORD.csv | while read line
+#	cat AIRPORT_GPS_COORD.csv | while read line
+	cat github_airports.csv | while read line
 	do
 		line=`echo $line | sed 's/"//g'`
-		airportname=`echo $line | cut -f2 -d,`
-		lat=`echo $line | cut -f7 -d,`
-		long=`echo $line | cut -f8 -d,`
+#		airportname=`echo $line | cut -f 2 -d ','`
+#		lat=`echo $line | cut -f 7 -d,`
+#		long=`echo $line | cut -f 8 -d ','`
+		airportname=`echo $line | cut -f 4 -d ','`
+		lat=`echo $line | cut -f 5 -d ','`
+		long=`echo $line | cut -f 6 -d ','`
 		echo "$airportname,$lat,$long" >> airport_coords.txt 
 	done
 	sed -i -e 's/\///g' airport_coords.txt
