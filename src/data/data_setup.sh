@@ -30,6 +30,7 @@ if [ ! -s airport_names.txt ]; then
 		name=`echo $line | cut -f 2- -d ':' | sed 's/[^a-zA-Z0-9]/ /g'`
 		echo $code,$name >> airport_names.txt
 	done
+	sed -i -e 's/, /,/g' airport_names.txt
 	echo "Done"
 else
 	echo "Airport name file already exists, skipping clean up"
@@ -43,7 +44,6 @@ do
 	name=`echo $line | cut -f 2 -d ','`
 	sed -i -e "s/$code/$name/g" plane_data.csv
 done
-sed -i -e 's/, /,/g' plane_data.csv
 echo "Done"
 
 # Clean up airport coordinates
