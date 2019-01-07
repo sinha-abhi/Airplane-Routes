@@ -2,7 +2,7 @@
 
 # Get airplane route data for the passed tail number
 if [ $# -lt 2 ]; then 
-	echo "usage: bash data_setup.sh [file] [tail_num]" 
+	echo "usage: bash data_setup.sh [data_file] [tail_num]" 
 	exit 1
 fi
 
