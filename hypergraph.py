@@ -2,12 +2,12 @@
 import csv
 import os
 
-def make_hgraph(graph_dir, dat_path, seq_path):
+def make_hgraph(graph_dir, dat_path):
     graph = {}
     airports = set()
     tails = set()
 
-    with open(dat_path) as data_file:
+    with open(os.path.join(dat_path, "839251150_T_ONTIME.csv")) as data_file:
         reader = csv.reader(data_file, delimiter = ',')
 
         _airports = []
@@ -27,8 +27,7 @@ def make_hgraph(graph_dir, dat_path, seq_path):
 
     regs = {}
     tails = sorted(tails)
-    path = "data/aircraft_info/MASTER.txt"
-    with open(path) as reg_info:
+    with open(os.path.join(dat_path, "aircraft_info/MASTER.txt")) as reg_info:
         reader = csv.reader(reg_info, delimiter = ',')
         for row in reader:
             if not tails:
@@ -51,7 +50,7 @@ def make_hgraph(graph_dir, dat_path, seq_path):
     
     locs = {}
     airports = sorted(airports)
-    with open(seq_path) as seq_file:
+    with open(os.path.join(dat_path, "L_AIRPORT_ID.csv")) as seq_file:
         reader = csv.reader(seq_file, delimiter = ',')
 
         for seq, name in reader:
@@ -66,4 +65,4 @@ def make_hgraph(graph_dir, dat_path, seq_path):
             apts.write(k + " " + v + "\n")
 
 if __name__ == "__main__":
-    make_hgraph("Hypergraph", "data/839251150_T_ONTIME.csv", "data/L_AIRPORT_ID.csv")
+    make_hgraph("Hypergraph", "data")
