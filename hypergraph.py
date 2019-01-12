@@ -35,8 +35,8 @@ def make_hgraph(graph_dir, dat_path):
             elif tails[0] == row[0]:
                 regs[tails[0]] = row[6]
                 tails.remove(tails[0])
-        if tails:
-            print(tails)
+        #if tails:
+            #print(tails)
     
     with open(os.path.join(graph_dir, "flights.ids"), "w+") as acfts:
         for k, v in regs.items():
