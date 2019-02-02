@@ -84,8 +84,6 @@ def make_hgraph(graph_dir, dat_path):
 
     gps_data = clean_airport_coords(dat_path, True)
     for k, v in gps_data.items():
-        if not port_names:
-            break
         for name in port_names:
             if name in k:
                 locs[name] = str(locs[name]) + " " + str(v)
