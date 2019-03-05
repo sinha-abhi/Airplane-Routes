@@ -20,13 +20,21 @@ def clean_airport_coords(file_path, write=None):
 
     return sorted_airports
 
+def get_found_nnumbers(tails, dat_path):
+    reg_tails = [] 
+    with open(os.path.join(dat_path, "aircraft_info/MASTER.txt")) as reg_info:
+        reg_tails = [x[0] for x in csv.reader(reg_info, delimiter = ',')]
 
-def make_hgraph(graph_dir, dat_path):
+    reg_set = set(reg_tails)
+
+    return sorted(tails.intersection(reg_set))
+
+def make_hgraph(graph_dir, graph_name, dat_path, dat_file):
     graph = {}
     airports = set()
     tails = set()
 
-    with open(os.path.join(dat_path, "839251150_T_ONTIME.csv")) as data_file:
+    with open(os.path.join(dat_path, dat_file)) as data_file:
         reader = csv.reader(data_file, delimiter = ',')
 
         _airports = []
@@ -35,7 +43,8 @@ def make_hgraph(graph_dir, dat_path):
             airports.add(org)
             airports.add(dest)
             if tail_num != prev_tail and _airports:
-                tails.add(tail_num)
+                if len(tail_num) == 5:      # throw away invalid N-Numbers
+                    tails.add(tail_num)
                 graph[prev_tail] = _airports
                 prev_tail = tail_num
                 _airports = []
@@ -45,7 +54,7 @@ def make_hgraph(graph_dir, dat_path):
             _airports.append(dest)
 
     regs = {}
-    tails = sorted(tails)
+    tails = get_found_nnumbers(tails, dat_path)
     with open(os.path.join(dat_path, "aircraft_info/MASTER.txt")) as reg_info:
         reader = csv.reader(reg_info, delimiter = ',')
         for row in reader:
@@ -55,13 +64,13 @@ def make_hgraph(graph_dir, dat_path):
                 regs[tails[0]] = row[6]
                 tails.remove(tails[0])
         if tails:
-            print(tails)
+            print("[ERROR] " + dat_file + ": Not all valid tails have been processed.")
     
-    with open(os.path.join(graph_dir, "flights.ids"), "w+") as acfts:
+    with open(os.path.join(graph_dir, graph_name + ".ids"), "w+") as acfts:
         for k, v in regs.items():
             acfts.write(k + " " + v + "\n")
 
-    with open(os.path.join(graph_dir, "flights.hgraph"), "w+") as hgraph:
+    with open(os.path.join(graph_dir, graph_name + ".hgraph"), "w+") as hgraph:
         for v in graph.values():
             v_str = " ".join(v)
             res = str(len(v)) + " " + v_str + "\n"
@@ -88,9 +97,11 @@ def make_hgraph(graph_dir, dat_path):
             if name in k:
                 locs[name] = str(locs[name]) + " " + str(v)
 
-    with open(os.path.join(graph_dir, "flights.airports"), "w+") as apts:
+    with open(os.path.join(graph_dir, graph_name + ".airports"), "w+") as apts:
         for k, v in locs.items():
             apts.write(v + " " + k + "\n")
 
 if __name__ == "__main__":
-    make_hgraph("Hypergraph", "data")
+    make_hgraph("hypergraphs", "5_flights", "data", "515819853_T_ONTIME.csv")
+    make_hgraph("hypergraphs", "8_flights", "data", "839251150_T_ONTIME.csv")
+
