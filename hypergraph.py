@@ -2,23 +2,24 @@
 import csv
 import os
 
+
 class Hypergraph(object):
 
     def __init__(self, tgt_dir, tgt_name, dat_file, dat_path="data"):
-       self.tgt_dir = tgt_dir 
-       self.tgt_name = tgt_name 
-       self.dat_path = dat_path
-       self.dat_file = dat_file
+        self.tgt_dir = tgt_dir
+        self.tgt_name = tgt_name
+        self.dat_path = dat_path
+        self.dat_file = dat_file
 
     def clean_airport_coords(self, write=False):
         airports = {}
 
         with open(os.path.join(self.dat_path, "AIRPORT_GPS_COORD.csv")) as gps_file:
-            reader = csv.reader(gps_file, delimiter = ',')
-            
+            reader = csv.reader(gps_file, delimiter=',')
+
             for row in reader:
                 airports[row[1]] = (row[6], row[7])
-            
+
         sorted_airports = dict((k, airports[k]) for k in sorted(airports.keys()))
 
         if write:
@@ -28,14 +29,14 @@ class Hypergraph(object):
 
         return sorted_airports
 
-    def get_found_nnumbers(self, tails, sorted=True):
-        reg_tails = [] 
+    def get_found_nnumbers(self, tails, is_sorted=True):
+        reg_tails = []
         with open(os.path.join(self.dat_path, "aircraft_info/MASTER.txt")) as reg_info:
-            reg_tails = [x[0] for x in csv.reader(reg_info, delimiter = ',')]
+            reg_tails = [x[0] for x in csv.reader(reg_info, delimiter=',')]
 
         reg_set = set(reg_tails)
 
-        if sorted:
+        if is_sorted:
             return sorted(tails.intersection(reg_set))
         else:
             return tails.intersection(reg_set)
@@ -46,7 +47,7 @@ class Hypergraph(object):
         tails = set()
 
         with open(os.path.join(self.dat_path, self.dat_file)) as data_file:
-            reader = csv.reader(data_file, delimiter = ',')
+            reader = csv.reader(data_file, delimiter=',')
 
             _airports = []
             prev_tail = ""
@@ -54,7 +55,7 @@ class Hypergraph(object):
                 airports.add(org)
                 airports.add(dest)
                 if tail_num != prev_tail and _airports:
-                    if len(tail_num) == 5:      # throw away invalid N-Numbers
+                    if len(tail_num) == 5:  # throw away invalid N-Numbers
                         tails.add(tail_num)
                     graph[prev_tail] = _airports
                     prev_tail = tail_num
@@ -65,9 +66,9 @@ class Hypergraph(object):
                 _airports.append(dest)
 
         regs = {}
-        tails = get_found_nnumbers(tails)
+        tails = self.get_found_nnumbers(tails)
         with open(os.path.join(self.dat_path, "aircraft_info/MASTER.txt")) as reg_info:
-            reader = csv.reader(reg_info, delimiter = ',')
+            reader = csv.reader(reg_info, delimiter=',')
             for row in reader:
                 if not tails:
                     break
@@ -75,8 +76,8 @@ class Hypergraph(object):
                     regs[tails[0]] = row[6]
                     tails.remove(tails[0])
             if tails:
-                print("[WARNING] " + dat_file + ": Not all valid tails have been processed.")
-        
+                print("[WARNING] " + self.dat_file + ": Not all valid tails have been processed.")
+
         with open(os.path.join(self.tgt_dir, self.tgt_name + ".ids"), "w+") as acfts:
             for k, v in regs.items():
                 acfts.write(k + " " + v + "\n")
@@ -90,7 +91,7 @@ class Hypergraph(object):
         locs = {}
         airports = sorted(airports)
         with open(os.path.join(self.dat_path, "L_AIRPORT_ID.csv")) as seq_file:
-            reader = csv.reader(seq_file, delimiter = ',')
+            reader = csv.reader(seq_file, delimiter=',')
 
             for seq, name in reader:
                 if not airports:
@@ -101,7 +102,7 @@ class Hypergraph(object):
 
         port_names = locs.keys()
 
-        gps_data = clean_airport_coords(True)
+        gps_data = self.clean_airport_coords(True)
         for k, v in gps_data.items():
             for name in port_names:
                 if name in k:
@@ -113,10 +114,7 @@ class Hypergraph(object):
 
 
 if __name__ == "__main__":
-#   make_hgraph("hypergraphs", "5_flights", "data", "515819853_T_ONTIME.csv")
-#   make_hgraph("hypergraphs", "8_flights", "data", "839251150_T_ONTIME.csv")
     hg = Hypergraph("hypergraphs", "5_flights", "515819853_T_ONTIME.csv")
     hg.make_hgraph()
     hg = Hypergraph("hypergraphs", "8_flights", "839251150_T_ONTIME.csv")
     hg.make_hgraph()
-
