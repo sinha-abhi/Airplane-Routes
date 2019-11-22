@@ -25,7 +25,6 @@ class FlightHypergraph(object):
             with open(os.path.join(self.dat_path, "master_coords.csv"), "w+") as gps_file:
                 for k in airports.keys():
                     gps_file.write(k + "," + airports[k][0] + "," + airports[k][1] + "\n")
-
         return airports 
 
     def get_found_nnumbers(self, tails, sort=True):
@@ -34,19 +33,18 @@ class FlightHypergraph(object):
             _registered = [x[0] for x in csv.reader(reg_info, delimiter=',')]
         registered = set(_registered)
         inter = tails.intersection(registered)
-
         return sorted(inter) if sort else inter
 
     def load_data(self):
-            self.airports = set()
-            self.graph = dict()
-            self.tails = set()
+        self.airports = set()
+        self.graph = dict()
+        self.tails = set()
 
         with open(os.path.join(self.dat_path, self.dat_file)) as data_file:
             reader = csv.reader(data_file, delimiter=',')
             _airports = list()
             prev_tail = ""
-            next(reader)
+            next(reader) # skip header
             for tail_num, org, dest in reader:
                 self.airports.add(org)
                 self.airports.add(dest)
@@ -70,7 +68,6 @@ class FlightHypergraph(object):
                 elif airports[0] == seq:
                     locs[name] = seq
                     airports.pop(0)
-
         return locs
 
     def make_hgraph(self):
