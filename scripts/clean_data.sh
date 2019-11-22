@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 if [ $# -lt 2 ]; then 
 	echo "usage: $0 [data_file] [target_file]" 
     echo "warning: the target_file will be overwritten"
@@ -23,7 +22,3 @@ do
     echo "$tailnum,$org,$dest" >> $file
 done
 echo "Done"
-
-
-echo "Shutting down after script completion..."
-shutdown now
